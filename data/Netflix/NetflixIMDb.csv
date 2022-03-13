@@ -15,17 +15,17 @@ Date,titleId,Title,episodeId,Episode,seasonNumber,episodeNumber
 12/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103952,Pearl Harbor,1,3
 10/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103948,Batalha da Grã-Bretanha,1,2
 08/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103946,Guerra-relâmpago,1,1
-03/06/2021,tt0028478,The Walking Dead,,Morto ou vivo,8,11
-22/05/2021,tt0028478,The Walking Dead,,Os perdidos e os saqueadores,8,10
-16/05/2021,tt0028478,The Walking Dead,,Honra,8,9
-15/05/2021,tt0028478,The Walking Dead,,Como vai ser,8,8
-14/05/2021,tt0028478,The Walking Dead,,Tempo para depois,8,7
-10/05/2021,tt0028478,The Walking Dead,,"O rei, a viúva e Rick",8,6
-09/05/2021,tt0028478,The Walking Dead,,Cerco assustador,8,5
-08/05/2021,tt0028478,The Walking Dead,,Um cara aí,8,4
-07/05/2021,tt0028478,The Walking Dead,,Monstros,8,3
-02/05/2021,tt0028478,The Walking Dead,,Os condenados,8,2
-01/05/2021,tt0028478,The Walking Dead,,Misericórdia,8,1
+03/06/2021,tt1520211,The Walking Dead,tt6337096,Morto ou vivo,8,11
+22/05/2021,tt1520211,The Walking Dead,tt6337088,Os perdidos e os saqueadores,8,10
+16/05/2021,tt1520211,The Walking Dead,tt6337078,Honra,8,9
+15/05/2021,tt1520211,The Walking Dead,tt6327118,Como vai ser,8,8
+14/05/2021,tt1520211,The Walking Dead,tt6325296,Tempo para depois,8,7
+10/05/2021,tt1520211,The Walking Dead,tt6207930,"O rei, a viúva e Rick",8,6
+09/05/2021,tt1520211,The Walking Dead,tt6198668,Cerco assustador,8,5
+08/05/2021,tt1520211,The Walking Dead,tt6198662,Um cara aí,8,4
+07/05/2021,tt1520211,The Walking Dead,tt6198656,Monstros,8,3
+02/05/2021,tt1520211,The Walking Dead,tt6198638,Os condenados,8,2
+01/05/2021,tt1520211,The Walking Dead,tt6156390,Misericórdia,8,1
 28/03/2021,tt6074794,Sangatsu no Lion,tt8792878,Episódio 22,2,22
 28/03/2021,tt6074794,Sangatsu no Lion,tt8792876,Episódio 21,2,21
 27/03/2021,tt6074794,Sangatsu no Lion,tt8792870,Episódio 20,2,20
@@ -52,16 +52,16 @@ Date,titleId,Title,episodeId,Episode,seasonNumber,episodeNumber
 27/12/2020,tt6074794,Sangatsu no Lion,tt8792414,Episódio 3,2,3
 26/12/2020,tt6074794,Sangatsu no Lion,tt8792382,Episódio 2,2,2
 22/12/2020,tt6074794,Sangatsu no Lion,tt7282032,Episódio 1,2,1
-02/12/2020,tt11309924,Space Force,,Reação proporcional,1,10
-30/11/2020,tt11309924,Space Force,,De volta à Lua,1,9
-29/11/2020,tt11309924,Space Force,,Visita íntima,1,8
-24/11/2020,tt11309924,Space Force,,Edison Jaymes,1,7
-22/11/2020,tt11309924,Space Force,,O espião,1,6
-21/11/2020,tt11309924,Space Force,,Jogo de guerra,1,5
-20/11/2020,tt11309924,Space Force,,Habitat lunar,1,4
-17/11/2020,tt11309924,Space Force,,Mark e Mallory vão a Washington,1,3
-16/11/2020,tt11309924,Space Force,,Salvando o Epsilon 6!,1,2
-14/11/2020,tt11309924,Space Force,,O lançamento,1,1
+02/12/2020,tt9612516,Space Force,tt10572536,Reação proporcional,1,10
+30/11/2020,tt9612516,Space Force,tt10572532,De volta à Lua,1,9
+29/11/2020,tt9612516,Space Force,tt10572530,Visita íntima,1,8
+24/11/2020,tt9612516,Space Force,tt10572524,Edison Jaymes,1,7
+22/11/2020,tt9612516,Space Force,tt10572522,O espião,1,6
+21/11/2020,tt9612516,Space Force,tt10572520,Jogo de guerra,1,5
+20/11/2020,tt9612516,Space Force,tt10572516,Habitat lunar,1,4
+17/11/2020,tt9612516,Space Force,tt10572514,Mark e Mallory vão a Washington,1,3
+16/11/2020,tt9612516,Space Force,tt10572508,Salvando o Epsilon 6!,1,2
+14/11/2020,tt9612516,Space Force,tt10572504,O lançamento,1,1
 05/11/2020,tt6074794,Sangatsu no Lion,tt7726116,Episódio 22,1,22
 04/11/2020,tt6074794,Sangatsu no Lion,tt7726114,Episódio 21,1,21
 04/11/2020,tt6074794,Sangatsu no Lion,tt7726110,Episódio 20,1,20
@@ -446,5 +446,5 @@ Date,titleId,Title,episodeId,Episode,seasonNumber,episodeNumber
 03/07/2019,tt1623288,ParaNorman,,,,
 29/06/2019,tt2279373,The SpongeBob Movie: Sponge Out of Water,,,,
 15/06/2019,tt2709768,The Secret Life of Pets,,,,
-07/04/2019,tt0028478,The Walking Dead,,"Adeus, passado",1,1
+07/04/2019,tt1520211,The Walking Dead,tt1589921,"Adeus, passado",1,1
 07/04/2019,tt8753660,Exterminadores do Além Contra a Loira do Banheiro,,,,
