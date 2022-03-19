@@ -1,115 +1,437 @@
 tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres
-tt0028478,movie,The Walking Dead,The Walking Dead,0,1936,\N,66,Crime
-tt0028478,movie,The Walking Dead,The Walking Dead,0,1936,\N,66,Drama
-tt0028478,movie,The Walking Dead,The Walking Dead,0,1936,\N,66,Horror
-tt0073174,movie,Inside Out,Inside Out,0,1975,\N,97,Comedy
-tt0073174,movie,Inside Out,Inside Out,0,1975,\N,97,Crime
-tt0073174,movie,Inside Out,Inside Out,0,1975,\N,97,Thriller
-tt0092359,tvSeries,Full House,Full House,0,1987,1995,22,Comedy
-tt0092359,tvSeries,Full House,Full House,0,1987,1995,22,Drama
-tt0092359,tvSeries,Full House,Full House,0,1987,1995,22,Family
-tt0096283,movie,My Neighbor Totoro,Tonari no Totoro,0,1988,\N,86,Animation
-tt0096283,movie,My Neighbor Totoro,Tonari no Totoro,0,1988,\N,86,Comedy
-tt0096283,movie,My Neighbor Totoro,Tonari no Totoro,0,1988,\N,86,Family
-tt0098800,tvSeries,The Fresh Prince of Bel-Air,The Fresh Prince of Bel-Air,0,1990,1996,22,Comedy
-tt0206501,tvSeries,Nova,Nova,0,1974,\N,60,Documentary
-tt0206512,tvSeries,SpongeBob SquarePants,SpongeBob SquarePants,0,1999,\N,23,Animation
-tt0206512,tvSeries,SpongeBob SquarePants,SpongeBob SquarePants,0,1999,\N,23,Comedy
-tt0206512,tvSeries,SpongeBob SquarePants,SpongeBob SquarePants,0,1999,\N,23,Family
-tt0230011,movie,Atlantis: The Lost Empire,Atlantis: The Lost Empire,0,2001,\N,95,Action
-tt0230011,movie,Atlantis: The Lost Empire,Atlantis: The Lost Empire,0,2001,\N,95,Adventure
-tt0230011,movie,Atlantis: The Lost Empire,Atlantis: The Lost Empire,0,2001,\N,95,Animation
-tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001,\N,125,Adventure
-tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001,\N,125,Animation
-tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001,\N,125,Family
-tt0327597,movie,Coraline,Coraline,0,2009,\N,100,Animation
-tt0327597,movie,Coraline,Coraline,0,2009,\N,100,Drama
-tt0327597,movie,Coraline,Coraline,0,2009,\N,100,Family
-tt0332379,movie,School of Rock,School of Rock,0,2003,\N,109,Comedy
-tt0332379,movie,School of Rock,School of Rock,0,2003,\N,109,Music
-tt0337593,tvMovie,Sherlock,Sherlock,0,2002,\N,100,Action
-tt0337593,tvMovie,Sherlock,Sherlock,0,2002,\N,100,Adventure
-tt0337593,tvMovie,Sherlock,Sherlock,0,2002,\N,100,Crime
-tt0808506,movie,The Girl Who Leapt Through Time,Toki o kakeru shôjo,0,2006,\N,98,Adventure
-tt0808506,movie,The Girl Who Leapt Through Time,Toki o kakeru shôjo,0,2006,\N,98,Animation
-tt0808506,movie,The Girl Who Leapt Through Time,Toki o kakeru shôjo,0,2006,\N,98,Comedy
-tt1051155,tvSeries,The Universe,The Universe,0,2007,2015,45,Documentary
-tt1051155,tvSeries,The Universe,The Universe,0,2007,2015,45,History
-tt1104001,movie,TRON: Legacy,Tron,0,2010,\N,125,Action
-tt1104001,movie,TRON: Legacy,Tron,0,2010,\N,125,Adventure
-tt1104001,movie,TRON: Legacy,Tron,0,2010,\N,125,Sci-Fi
-tt11309924,short,Space Force,Space Force,0,2019,\N,\N,Comedy
-tt11309924,short,Space Force,Space Force,0,2019,\N,\N,Short
-tt11958344,movie,A Whisker Away,Nakitai watashi wa neko o kaburu,0,2020,\N,104,Adventure
-tt11958344,movie,A Whisker Away,Nakitai watashi wa neko o kaburu,0,2020,\N,104,Animation
-tt11958344,movie,A Whisker Away,Nakitai watashi wa neko o kaburu,0,2020,\N,104,Drama
-tt11958648,tvSeries,History 101,History 101,0,2020,\N,22,Documentary
-tt11958648,tvSeries,History 101,History 101,0,2020,\N,22,History
-tt12189310,tvMiniSeries,"Coronavirus, Explained","Coronavirus, Explained",0,2020,2020,69,Documentary
-tt1279024,tvSeries,Toradora!,Toradora!,0,2008,2009,24,Animation
-tt1279024,tvSeries,Toradora!,Toradora!,0,2008,2009,24,Comedy
-tt1279024,tvSeries,Toradora!,Toradora!,0,2008,2009,24,Drama
-tt12930534,tvMiniSeries,Challenger: The Final Flight,Challenger: The Final Flight,0,2020,2020,179,Documentary
-tt12930534,tvMiniSeries,Challenger: The Final Flight,Challenger: The Final Flight,0,2020,2020,179,History
-tt1623288,movie,ParaNorman,ParaNorman,0,2012,\N,92,Adventure
-tt1623288,movie,ParaNorman,ParaNorman,0,2012,\N,92,Animation
-tt1623288,movie,ParaNorman,ParaNorman,0,2012,\N,92,Comedy
-tt16477402,tvSeries,WWII in Color: Road to Victory,WWII in Color: Road to Victory,0,2021,\N,50,Documentary
-tt16477402,tvSeries,WWII in Color: Road to Victory,WWII in Color: Road to Victory,0,2021,\N,50,History
-tt16477402,tvSeries,WWII in Color: Road to Victory,WWII in Color: Road to Victory,0,2021,\N,50,War
-tt1839494,movie,Children Who Chase Lost Voices,Hoshi o ou kodomo,0,2011,\N,116,Adventure
-tt1839494,movie,Children Who Chase Lost Voices,Hoshi o ou kodomo,0,2011,\N,116,Animation
-tt1839494,movie,Children Who Chase Lost Voices,Hoshi o ou kodomo,0,2011,\N,116,Drama
-tt1913273,tvSeries,Anohana: The Flower We Saw That Day,Ano hi mita hana no namae o bokutachi wa mada shiranai.,0,2011,2011,23,Adventure
-tt1913273,tvSeries,Anohana: The Flower We Saw That Day,Ano hi mita hana no namae o bokutachi wa mada shiranai.,0,2011,2011,23,Animation
-tt1913273,tvSeries,Anohana: The Flower We Saw That Day,Ano hi mita hana no namae o bokutachi wa mada shiranai.,0,2011,2011,23,Drama
-tt2140203,movie,Wolf Children,Ôkami kodomo no Ame to Yuki,0,2012,\N,117,Animation
-tt2140203,movie,Wolf Children,Ôkami kodomo no Ame to Yuki,0,2012,\N,117,Drama
-tt2140203,movie,Wolf Children,Ôkami kodomo no Ame to Yuki,0,2012,\N,117,Fantasy
-tt2279373,movie,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,0,2015,\N,92,Adventure
-tt2279373,movie,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,0,2015,\N,92,Animation
-tt2279373,movie,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,0,2015,\N,92,Comedy
-tt2709768,movie,The Secret Life of Pets,The Secret Life of Pets,0,2016,\N,87,Adventure
-tt2709768,movie,The Secret Life of Pets,The Secret Life of Pets,0,2016,\N,87,Animation
-tt2709768,movie,The Secret Life of Pets,The Secret Life of Pets,0,2016,\N,87,Comedy
-tt2910906,short,The Martian,The Martian,0,2013,\N,10,Comedy
-tt2910906,short,The Martian,The Martian,0,2013,\N,10,Romance
-tt2910906,short,The Martian,The Martian,0,2013,\N,10,Sci-Fi
-tt4302938,movie,Kubo and the Two Strings,Kubo and the Two Strings,0,2016,\N,101,Action
-tt4302938,movie,Kubo and the Two Strings,Kubo and the Two Strings,0,2016,\N,101,Adventure
-tt4302938,movie,Kubo and the Two Strings,Kubo and the Two Strings,0,2016,\N,101,Animation
-tt4508902,tvSeries,One Punch Man,One Punch Man: Wanpanman,0,2015,2019,24,Action
-tt4508902,tvSeries,One Punch Man,One Punch Man: Wanpanman,0,2015,2019,24,Animation
-tt4508902,tvSeries,One Punch Man,One Punch Man: Wanpanman,0,2015,2019,24,Comedy
-tt4831682,movie,Little Witch Academia: The Enchanted Parade,Ritoru wicchi akademia: Mahoujihikake no parêdo,0,2015,\N,54,Animation
-tt4831682,movie,Little Witch Academia: The Enchanted Parade,Ritoru wicchi akademia: Mahoujihikake no parêdo,0,2015,\N,54,Comedy
-tt4831682,movie,Little Witch Academia: The Enchanted Parade,Ritoru wicchi akademia: Mahoujihikake no parêdo,0,2015,\N,54,Family
-tt5311514,movie,Your Name.,Kimi no na wa.,0,2016,\N,106,Animation
-tt5311514,movie,Your Name.,Kimi no na wa.,0,2016,\N,106,Drama
-tt5311514,movie,Your Name.,Kimi no na wa.,0,2016,\N,106,Fantasy
-tt5323662,movie,A Silent Voice: The Movie,Koe no katachi,0,2016,\N,130,Animation
-tt5323662,movie,A Silent Voice: The Movie,Koe no katachi,0,2016,\N,130,Drama
-tt5959952,movie,Mission Control: The Unsung Heroes of Apollo,Mission Control: The Unsung Heroes of Apollo,0,2017,\N,101,Documentary
-tt5959952,movie,Mission Control: The Unsung Heroes of Apollo,Mission Control: The Unsung Heroes of Apollo,0,2017,\N,101,History
-tt6074794,tvSeries,March Comes in Like a Lion,Sangatsu no Lion,0,2016,2018,25,Animation
-tt6074794,tvSeries,March Comes in Like a Lion,Sangatsu no Lion,0,2016,2018,25,Comedy
-tt6074794,tvSeries,March Comes in Like a Lion,Sangatsu no Lion,0,2016,2018,25,Drama
-tt6317962,movie,Fireworks,"Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",0,2017,\N,90,Animation
-tt6317962,movie,Fireworks,"Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",0,2017,\N,90,Drama
-tt6317962,movie,Fireworks,"Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",0,2017,\N,90,Fantasy
-tt6352180,tvSeries,Little Witch Academia,Little Witch Academia,0,2017,2017,25,Animation
-tt6352180,tvSeries,Little Witch Academia,Little Witch Academia,0,2017,2017,25,Comedy
-tt6352180,tvSeries,Little Witch Academia,Little Witch Academia,0,2017,2017,25,Family
-tt7521400,short,The Search for Life in Space,The Search for Life in Space,0,2016,\N,32,Documentary
-tt7521400,short,The Search for Life in Space,The Search for Life in Space,0,2016,\N,32,Short
-tt7808344,tvMiniSeries,Karakai Jouzu no Takagi-san,Karakai Jouzu no Takagi-san,0,2018,\N,23,Animation
-tt7808344,tvMiniSeries,Karakai Jouzu no Takagi-san,Karakai Jouzu no Takagi-san,0,2018,\N,23,Comedy
-tt7808344,tvMiniSeries,Karakai Jouzu no Takagi-san,Karakai Jouzu no Takagi-san,0,2018,\N,23,Romance
-tt8176578,movie,Flavors of Youth,Si shi qing chun,0,2018,\N,74,Animation
-tt8176578,movie,Flavors of Youth,Si shi qing chun,0,2018,\N,74,Drama
-tt8176578,movie,Flavors of Youth,Si shi qing chun,0,2018,\N,74,Romance
-tt8753660,movie,Ghost Killers vs. Bloody Mary,Exterminadores do Além Contra a Loira do Banheiro,0,2018,\N,108,Comedy
-tt8753660,movie,Ghost Killers vs. Bloody Mary,Exterminadores do Além Contra a Loira do Banheiro,0,2018,\N,108,Horror
-tt9103932,tvMiniSeries,Greatest Events of WWII in Colour,Greatest Events of WWII in Colour,0,2019,2019,50,Documentary
-tt9103932,tvMiniSeries,Greatest Events of WWII in Colour,Greatest Events of WWII in Colour,0,2019,2019,50,History
-tt9103932,tvMiniSeries,Greatest Events of WWII in Colour,Greatest Events of WWII in Colour,0,2019,2019,50,War
+tt0073174,movie,Inside Out,Inside Out,0,1975,\N,97,"Comedy,Crime,Thriller"
+tt0096283,movie,My Neighbor Totoro,Tonari no Totoro,0,1988,\N,86,"Animation,Comedy,Family"
+tt0230011,movie,Atlantis: The Lost Empire,Atlantis: The Lost Empire,0,2001,\N,95,"Action,Adventure,Animation"
+tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001,\N,125,"Adventure,Animation,Family"
+tt0327597,movie,Coraline,Coraline,0,2009,\N,100,"Animation,Drama,Family"
+tt0332379,movie,School of Rock,School of Rock,0,2003,\N,109,"Comedy,Music"
+tt0582933,tvEpisode,'Twas the Night Before Christening,'Twas the Night Before Christening,0,1993,\N,23,Comedy
+tt0582935,tvEpisode,A Decent Proposal,A Decent Proposal,0,1995,\N,23,Comedy
+tt0582936,tvEpisode,A Funny Thing Happened on the Way Home from the Forum,A Funny Thing Happened on the Way Home from the Forum,0,1992,\N,30,Comedy
+tt0582937,tvEpisode,A Night at the Oprah,A Night at the Oprah,0,1992,\N,30,Comedy
+tt0582939,tvEpisode,"All Guts, No Glory","All Guts, No Glory",0,1993,\N,23,Comedy
+tt0582940,tvEpisode,As the Will Turns,As the Will Turns,0,1995,\N,23,Comedy
+tt0582942,tvEpisode,"Bang the Drum, Ashley","Bang the Drum, Ashley",0,1990,\N,24,Comedy
+tt0582944,tvEpisode,Be My Baby Tonight,Be My Baby Tonight,0,1992,\N,24,Comedy
+tt0582945,tvEpisode,Blood Is Thicker Than Mud,Blood Is Thicker Than Mud,0,1993,\N,22,Comedy
+tt0582947,tvEpisode,Boxing Helena,Boxing Helena,0,1996,\N,23,Comedy
+tt0582949,tvEpisode,Breaking Up Is Hard to Do: Part 1,Breaking Up Is Hard to Do: Part 1,0,1996,\N,22,Comedy
+tt0582950,tvEpisode,Breaking Up Is Hard to Do: Part 2,Breaking Up Is Hard to Do: Part 2,0,1996,\N,23,Comedy
+tt0582951,tvEpisode,Bullets Over Bel-Air,Bullets Over Bel-Air,0,1995,\N,23,Comedy
+tt0582952,tvEpisode,Bundle of Joy,Bundle of Joy,0,1993,\N,21,Comedy
+tt0582954,tvEpisode,Cased Up,Cased Up,0,1991,\N,24,Comedy
+tt0582955,tvEpisode,Christmas Show,Christmas Show,0,1991,\N,24,Comedy
+tt0582956,tvEpisode,Clubba Hubba,Clubba Hubba,0,1990,\N,22,Comedy
+tt0582957,tvEpisode,"Cold Feet, Hot Body","Cold Feet, Hot Body",0,1995,\N,23,Comedy
+tt0582958,tvEpisode,Community Action,Community Action,0,1992,\N,24,Comedy
+tt0582959,tvEpisode,Courting Disaster,Courting Disaster,0,1990,\N,24,Comedy
+tt0582960,tvEpisode,Day Damn One,Day Damn One,0,1990,\N,30,Comedy
+tt0582961,tvEpisode,Deck the Halls,Deck the Halls,0,1990,\N,30,Comedy
+tt0582962,tvEpisode,Def Poet's Society,Def Poet's Society,0,1990,\N,24,Comedy
+tt0582964,tvEpisode,"Eye, Tooth","Eye, Tooth",0,1996,\N,23,Comedy
+tt0582965,tvEpisode,Eyes on the Prize,Eyes on the Prize,0,1992,\N,24,Comedy
+tt0582967,tvEpisode,Father of the Year,Father of the Year,0,1993,\N,23,Comedy
+tt0582969,tvEpisode,For Whom the Wedding Bells Toll,For Whom the Wedding Bells Toll,0,1995,\N,23,Comedy
+tt0582970,tvEpisode,Fresh Prince After Dark,Fresh Prince After Dark,0,1993,\N,23,Comedy
+tt0582972,tvEpisode,Geoffrey Cleans Up,Geoffrey Cleans Up,0,1992,\N,24,Comedy
+tt0582977,tvEpisode,Hare Today...,Hare Today...,0,1996,\N,23,Comedy
+tt0582978,tvEpisode,Here Comes the Judge,Here Comes the Judge,0,1992,\N,24,Comedy
+tt0582979,tvEpisode,Hex and the Single Guy,Hex and the Single Guy,0,1993,\N,23,Comedy
+tt0582980,tvEpisode,Hi-Ho Silver,Hi-Ho Silver,0,1991,\N,23,Comedy
+tt0582981,tvEpisode,Hilary Gets a Job,Hilary Gets a Job,0,1992,\N,24,Comedy
+tt0582982,tvEpisode,Hilary Gets a Life,Hilary Gets a Life,0,1992,\N,24,Comedy
+tt0582983,tvEpisode,Home Is Where the Heart Attack Is,Home Is Where the Heart Attack Is,0,1993,\N,30,Comedy
+tt0582984,tvEpisode,"Homeboy, Sweet Homeboy","Homeboy, Sweet Homeboy",0,1990,\N,24,Comedy
+tt0582985,tvEpisode,How I Spent My Summer Vacation,How I Spent My Summer Vacation,0,1992,\N,24,Comedy
+tt0582986,tvEpisode,I Know Why the Caged Bird Screams,I Know Why the Caged Bird Screams,0,1994,\N,23,Comedy
+tt0582987,tvEpisode,"I, Bowl Buster","I, Bowl Buster",0,1996,\N,23,Comedy
+tt0582988,tvEpisode,"I, Clownius","I, Clownius",0,1996,\N,22,Comedy
+tt0582989,tvEpisode,"I, Done: Part 1","I, Done: Part 1",0,1996,\N,23,Comedy
+tt0582990,tvEpisode,"I, Done: Part 2","I, Done: Part 2",0,1996,\N,24,Comedy
+tt0582991,tvEpisode,"I, Ooh, Baby, Baby","I, Ooh, Baby, Baby",0,1995,\N,23,Comedy
+tt0582992,tvEpisode,"I, Stank Hole in One","I, Stank Hole in One",0,1996,\N,23,Comedy
+tt0582993,tvEpisode,"I, Stank Horse","I, Stank Horse",0,1996,\N,23,Comedy
+tt0582994,tvEpisode,"I, Whoops, There It Is","I, Whoops, There It Is",0,1996,\N,23,Comedy
+tt0582995,tvEpisode,Ill Will,Ill Will,0,1992,\N,24,Comedy
+tt0582996,tvEpisode,It Had to Be You,It Had to Be You,0,1991,\N,24,Comedy
+tt0582997,tvEpisode,It's Better to Have Loved and Lost It...,It's Better to Have Loved and Lost It...,0,1993,\N,23,Comedy
+tt0582998,tvEpisode,It's a Wonderful Lie,It's a Wonderful Lie,0,1995,\N,23,Comedy
+tt0583001,tvEpisode,Kiss My Butler,Kiss My Butler,0,1990,\N,24,Comedy
+tt0583002,tvEpisode,Knowledge Is Power,Knowledge Is Power,0,1990,\N,24,Comedy
+tt0583005,tvEpisode,Love in an Elevator,Love in an Elevator,0,1995,\N,23,Comedy
+tt0583006,tvEpisode,M Is for the Many Things She Gave Me,M Is for the Many Things She Gave Me,0,1994,\N,23,Comedy
+tt0583007,tvEpisode,"Mama's Baby, Carlton's Maybe","Mama's Baby, Carlton's Maybe",0,1992,\N,24,Comedy
+tt0583008,tvEpisode,Mistaken Identity,Mistaken Identity,0,1990,\N,24,Comedy
+tt0583009,tvEpisode,Mommy Nearest,Mommy Nearest,0,1992,\N,24,Comedy
+tt0583010,tvEpisode,Mother's Day,Mother's Day,0,1994,\N,23,Comedy
+tt0583011,tvEpisode,My Brother's Keeper,My Brother's Keeper,0,1992,\N,24,Comedy
+tt0583014,tvEpisode,"Not with My Pig, You Don't","Not with My Pig, You Don't",0,1990,\N,24,Comedy
+tt0583016,tvEpisode,P.S. I Love You,P.S. I Love You,0,1992,\N,24,Comedy
+tt0583018,tvEpisode,Papa's Got a Brand New Excuse,Papa's Got a Brand New Excuse,0,1994,\N,23,Comedy
+tt0583021,tvEpisode,"Same Game, Next Season","Same Game, Next Season",0,1994,\N,23,Comedy
+tt0583022,tvEpisode,Save the Last Trance for Me,Save the Last Trance for Me,0,1995,\N,23,Comedy
+tt0583023,tvEpisode,She Ain't Heavy,She Ain't Heavy,0,1991,\N,24,Comedy
+tt0583024,tvEpisode,Six Degrees of Graduation,Six Degrees of Graduation,0,1993,\N,24,Comedy
+tt0583025,tvEpisode,Sleepless in Bel-Air,Sleepless in Bel-Air,0,1994,\N,23,Comedy
+tt0583026,tvEpisode,Slum Like It... Not!,Slum Like It... Not!,0,1995,\N,23,Comedy
+tt0583027,tvEpisode,Someday Your Prince Will Be in Effect: Part 1,Someday Your Prince Will Be in Effect: Part 1,0,1990,\N,60,Comedy
+tt0583028,tvEpisode,Someday Your Prince Will Be in Effect: Part 2,Someday Your Prince Will Be in Effect: Part 2,0,1990,\N,60,Comedy
+tt0583029,tvEpisode,Something for Nothing,Something for Nothing,0,1991,\N,24,Comedy
+tt0583031,tvEpisode,Stop Will! In the Name of Love,Stop Will! In the Name of Love,0,1994,\N,23,Comedy
+tt0583033,tvEpisode,Striptease for Two,Striptease for Two,0,1992,\N,23,Comedy
+tt0583034,tvEpisode,Take My Cousin... Please,Take My Cousin... Please,0,1993,\N,23,Comedy
+tt0583035,tvEpisode,Talking Turkey,Talking Turkey,0,1990,\N,24,Comedy
+tt0583038,tvEpisode,The Aunt Who Came to Dinner,The Aunt Who Came to Dinner,0,1992,\N,24,Comedy
+tt0583039,tvEpisode,The Baby Comes Out,The Baby Comes Out,0,1993,\N,23,Comedy
+tt0583041,tvEpisode,The Big Four-Oh,The Big Four-Oh,0,1991,\N,24,Comedy
+tt0583042,tvEpisode,The Butler Did It,The Butler Did It,0,1991,\N,24,Comedy
+tt0583043,tvEpisode,The Butler's Son Did It,The Butler's Son Did It,0,1996,\N,23,Comedy
+tt0583045,tvEpisode,The Cold War,The Cold War,0,1992,\N,24,Comedy
+tt0583046,tvEpisode,The Ethnic Tip,The Ethnic Tip,0,1991,\N,24,Comedy
+tt0583047,tvEpisode,The Fresh Prince Project,The Fresh Prince Project,0,1990,\N,23,Comedy
+tt0583048,tvEpisode,The Harder They Fall,The Harder They Fall,0,1994,\N,30,Comedy
+tt0583049,tvEpisode,The Lucky Charm,The Lucky Charm,0,1991,\N,23,Comedy
+tt0583051,tvEpisode,The Ol' Ball and Chain,The Ol' Ball and Chain,0,1994,\N,23,Comedy
+tt0583054,tvEpisode,The Way We Were,The Way We Were,0,1993,\N,24,Comedy
+tt0583055,tvEpisode,The Wedding Show (Psyche!),The Wedding Show (Psyche!),0,1995,\N,23,Comedy
+tt0583056,tvEpisode,There's the Rub: Part 1,There's the Rub: Part 1,0,1995,\N,23,Comedy
+tt0583057,tvEpisode,There's the Rub: Part 2,There's the Rub: Part 2,0,1995,\N,23,Comedy
+tt0583058,tvEpisode,Those Were the Days,Those Were the Days,0,1992,\N,24,Comedy
+tt0583059,tvEpisode,Three's a Crowd,Three's a Crowd,0,1995,\N,23,Comedy
+tt0583060,tvEpisode,To Thine Own Self Be Blue... and Gold,To Thine Own Self Be Blue... and Gold,0,1995,\N,23,Comedy
+tt0583061,tvEpisode,Viva Lost Wages,Viva Lost Wages,0,1995,\N,22,Comedy
+tt0583062,tvEpisode,Vying for Attention,Vying for Attention,0,1992,\N,24,Comedy
+tt0583064,tvEpisode,When You Hit Upon a Star,When You Hit Upon a Star,0,1994,\N,23,Comedy
+tt0583065,tvEpisode,"Where There's a Will, There's a Way: Part 1","Where There's a Will, There's a Way: Part 1",0,1993,\N,22,Comedy
+tt0583066,tvEpisode,Who's the Boss?,Who's the Boss?,0,1994,\N,23,Comedy
+tt0583067,tvEpisode,Will Gets Committed,Will Gets Committed,0,1992,\N,30,Comedy
+tt0583069,tvEpisode,Will Goes a Courtin',Will Goes a Courtin',0,1993,\N,22,Comedy
+tt0583070,tvEpisode,Will Is from Mars...,Will Is from Mars...,0,1995,\N,23,Comedy
+tt0583071,tvEpisode,Will Steps Out,Will Steps Out,0,1994,\N,23,Comedy
+tt0583077,tvEpisode,You'd Better Shop Around,You'd Better Shop Around,0,1994,\N,22,Comedy
+tt0583078,tvEpisode,You've Got to Be a Football Hero,You've Got to Be a Football Hero,0,1993,\N,30,Comedy
+tt0583079,tvEpisode,The Young and the Restless,The Young and the Restless,0,1991,\N,24,Comedy
+tt0584090,tvEpisode,Ol' Brown Eyes,Ol' Brown Eyes,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584091,tvEpisode,13 Candles,13 Candles,0,1990,\N,30,"Comedy,Drama,Family"
+tt0584093,tvEpisode,A Fish Called Martin,A Fish Called Martin,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584095,tvEpisode,A Little Romance,A Little Romance,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584096,tvEpisode,A Pinch for a Pinch,A Pinch for a Pinch,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584097,tvEpisode,Aftershocks,Aftershocks,0,1989,\N,23,"Comedy,Drama,Family"
+tt0584100,tvEpisode,And They Call It Puppy Love,And They Call It Puppy Love,0,1989,\N,30,"Comedy,Drama,Family"
+tt0584103,tvEpisode,Baby Love,Baby Love,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584105,tvEpisode,Back to School Blues,Back to School Blues,0,1989,\N,23,"Comedy,Drama,Family"
+tt0584108,tvEpisode,Beach Boy Bingo,Beach Boy Bingo,0,1988,\N,30,"Comedy,Drama,Family"
+tt0584109,tvEpisode,Blast from the Past,Blast from the Past,0,1989,\N,30,"Comedy,Drama,Family"
+tt0584111,tvEpisode,Breaking Up Is Hard to Do (in 22 Minutes),Breaking Up Is Hard to Do (in 22 Minutes),0,1989,\N,30,"Comedy,Drama,Family"
+tt0584112,tvEpisode,But Seriously Folks,But Seriously Folks,0,1988,\N,30,"Comedy,Drama,Family"
+tt0584113,tvEpisode,"Bye, Bye Birdie","Bye, Bye Birdie",0,1990,\N,23,"Comedy,Drama,Family"
+tt0584119,tvEpisode,Crimes and Michelle's Demeanor,Crimes and Michelle's Demeanor,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584121,tvEpisode,Cutting It Close,Cutting It Close,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584122,tvEpisode,D.J. Tanner's Day Off,D.J. Tanner's Day Off,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584124,tvEpisode,D.J.'s Very First Horse,D.J.'s Very First Horse,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584125,tvEpisode,Daddy's Home,Daddy's Home,0,1987,\N,25,"Comedy,Drama,Family"
+tt0584126,tvEpisode,Danny's Very First Date,Danny's Very First Date,0,1988,\N,24,"Comedy,Drama,Family"
+tt0584129,tvEpisode,Divorce Court,Divorce Court,0,1989,\N,30,"Comedy,Drama,Family"
+tt0584130,tvEpisode,Double Trouble,Double Trouble,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584131,tvEpisode,Dr. Dare Rides Again,Dr. Dare Rides Again,0,1989,\N,30,"Comedy,Drama,Family"
+tt0584134,tvEpisode,El Problema Grande de D.J.,El Problema Grande de D.J.,0,1989,\N,30,"Comedy,Drama,Family"
+tt0584137,tvEpisode,Fogged In,Fogged In,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584138,tvEpisode,Fraternity Reunion,Fraternity Reunion,0,1990,\N,30,"Comedy,Drama,Family"
+tt0584139,tvEpisode,Girls Just Wanna Have Fun,Girls Just Wanna Have Fun,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584141,tvEpisode,"Good News, Bad News","Good News, Bad News",0,1990,\N,23,"Comedy,Drama,Family"
+tt0584142,tvEpisode,"Goodbye, Mr. Bear","Goodbye, Mr. Bear",0,1989,\N,25,"Comedy,Drama,Family"
+tt0584145,tvEpisode,Granny Tanny,Granny Tanny,0,1989,\N,23,"Comedy,Drama,Family"
+tt0584146,tvEpisode,Greek Week,Greek Week,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584147,tvEpisode,Half a Love Story,Half a Love Story,0,1988,\N,30,"Comedy,Drama,Family"
+tt0584149,tvEpisode,Happy New Year,Happy New Year,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584154,tvEpisode,It's Not My Job,It's Not My Job,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584155,tvEpisode,Jesse's Girl,Jesse's Girl,0,1987,\N,30,"Comedy,Drama,Family"
+tt0584156,tvEpisode,"Joey & Stacy and... Oh, Yeah, Jesse","Joey & Stacy and... Oh, Yeah, Jesse",0,1989,\N,23,"Comedy,Drama,Family"
+tt0584157,tvEpisode,Joey Goes Hollywood,Joey Goes Hollywood,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584159,tvEpisode,Joey's Place,Joey's Place,0,1987,\N,25,"Comedy,Drama,Family"
+tt0584160,tvEpisode,Just One of the Guys,Just One of the Guys,0,1988,\N,30,"Comedy,Drama,Family"
+tt0584161,tvEpisode,Just Say No Way,Just Say No Way,0,1990,\N,30,"Comedy,Drama,Family"
+tt0584163,tvEpisode,Knock Yourself Out,Knock Yourself Out,0,1987,\N,25,"Comedy,Drama,Family"
+tt0584165,tvEpisode,Little Shop of Sweaters,Little Shop of Sweaters,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584168,tvEpisode,Luck Be a Lady: Part 1,Luck Be a Lady: Part 1,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584169,tvEpisode,Luck Be a Lady: Part 2,Luck Be a Lady: Part 2,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584170,tvEpisode,Lust in the Dust,Lust in the Dust,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584171,tvEpisode,Mad Money,Mad Money,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584173,tvEpisode,Matchmaker Michelle,Matchmaker Michelle,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584177,tvEpisode,Middle Age Crazy,Middle Age Crazy,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584178,tvEpisode,Misadventures in Babysitting,Misadventures in Babysitting,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584179,tvEpisode,Mr. Egghead,Mr. Egghead,0,1990,\N,30,"Comedy,Drama,Family"
+tt0584180,tvEpisode,Nerd for a Day,Nerd for a Day,0,1989,\N,23,"Comedy,Drama,Family"
+tt0584182,tvEpisode,No More Mr. Dumb Guy,No More Mr. Dumb Guy,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584184,tvEpisode,One Last Kiss,One Last Kiss,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584185,tvEpisode,Our Very First Christmas Show,Our Very First Christmas Show,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584186,tvEpisode,Our Very First Night,Our Very First Night,0,1987,\N,24,"Comedy,Drama,Family"
+tt0584187,tvEpisode,Our Very First Promo,Our Very First Promo,0,1987,\N,25,"Comedy,Drama,Family"
+tt0584188,tvEpisode,Our Very First Show,Our Very First Show,0,1987,\N,25,"Comedy,Drama,Family"
+tt0584189,tvEpisode,Our Very First Telethon,Our Very First Telethon,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584190,tvEpisode,Pal Joey,Pal Joey,0,1989,\N,25,"Comedy,Drama,Family"
+tt0584194,tvEpisode,Rock the Cradle,Rock the Cradle,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584196,tvEpisode,Sea Cruise,Sea Cruise,0,1987,\N,30,"Comedy,Drama,Family"
+tt0584197,tvEpisode,Secret Admirer,Secret Admirer,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584198,tvEpisode,Shape Up,Shape Up,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584200,tvEpisode,Sisterly Love,Sisterly Love,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584202,tvEpisode,Star Search,Star Search,0,1989,\N,30,"Comedy,Drama,Family"
+tt0584203,tvEpisode,Stephanie Gets Framed,Stephanie Gets Framed,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584204,tvEpisode,Stephanie Plays the Field,Stephanie Plays the Field,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584209,tvEpisode,"Take My Sister, Please","Take My Sister, Please",0,1991,\N,23,"Comedy,Drama,Family"
+tt0584211,tvEpisode,Tanner vs. Gibbler,Tanner vs. Gibbler,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584212,tvEpisode,Terror in Tanner Town,Terror in Tanner Town,0,1990,\N,30,"Comedy,Drama,Family"
+tt0584214,tvEpisode,The Big Three-O,The Big Three-O,0,1987,\N,30,"Comedy,Drama,Family"
+tt0584218,tvEpisode,The First Day of School,The First Day of School,0,1987,\N,25,"Comedy,Drama,Family"
+tt0584219,tvEpisode,The Graduates,The Graduates,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584220,tvEpisode,The Greatest Birthday on Earth,The Greatest Birthday on Earth,0,1989,\N,30,"Comedy,Drama,Family"
+tt0584223,tvEpisode,The I.Q. Man,The I.Q. Man,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584224,tvEpisode,The King and I,The King and I,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584226,tvEpisode,The Legend of Ranger Joe,The Legend of Ranger Joe,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584227,tvEpisode,The Miracle of Thanksgiving,The Miracle of Thanksgiving,0,1987,\N,25,"Comedy,Drama,Family"
+tt0584232,tvEpisode,The Return of Grandma,The Return of Grandma,0,1987,\N,30,"Comedy,Drama,Family"
+tt0584233,tvEpisode,The Seven-Month Itch: Part 1,The Seven-Month Itch: Part 1,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584234,tvEpisode,The Seven-Month Itch: Part 2,The Seven-Month Itch: Part 2,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584237,tvEpisode,The Wedding: Part 1,The Wedding: Part 1,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584238,tvEpisode,The Wedding: Part 2,The Wedding: Part 2,0,1991,\N,23,"Comedy,Drama,Family"
+tt0584239,tvEpisode,Those Better Not Be the Days,Those Better Not Be the Days,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584240,tvEpisode,Three Men and Another Baby,Three Men and Another Baby,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584244,tvEpisode,Triple Date,Triple Date,0,1988,\N,25,"Comedy,Drama,Family"
+tt0584249,tvEpisode,Viva Las Joey,Viva Las Joey,0,1990,\N,23,"Comedy,Drama,Family"
+tt0584251,tvEpisode,Working Mothers,Working Mothers,0,1989,\N,30,"Comedy,Drama,Family"
+tt0760692,tvEpisode,Tanner's Island,Tanner's Island,0,1989,\N,23,"Comedy,Drama,Family"
+tt0774811,tvEpisode,"Honey, I Broke the House","Honey, I Broke the House",0,1990,\N,30,"Comedy,Drama,Family"
+tt0775995,tvEpisode,Fuller House,Fuller House,0,1991,\N,23,"Comedy,Drama,Family"
+tt0775997,tvEpisode,Slumber Party,Slumber Party,0,1990,\N,23,"Comedy,Drama,Family"
+tt0776001,tvEpisode,The Hole-in-the-Wall Gang,The Hole-in-the-Wall Gang,0,1991,\N,23,"Comedy,Drama,Family"
+tt0776062,tvEpisode,Danny in Charge,Danny in Charge,0,1990,\N,23,"Comedy,Drama,Family"
+tt0776066,tvEpisode,"I'm There for You, Babe","I'm There for You, Babe",0,1989,\N,25,"Comedy,Drama,Family"
+tt0776068,tvEpisode,Joey Gets Tough,Joey Gets Tough,0,1988,\N,30,"Comedy,Drama,Family"
+tt0776070,tvEpisode,"Oh Where, Oh Where Has My Little Girl Gone?","Oh Where, Oh Where Has My Little Girl Gone?",0,1991,\N,23,"Comedy,Drama,Family"
+tt0776076,tvEpisode,Working Girl,Working Girl,0,1991,\N,23,"Comedy,Drama,Family"
+tt0808506,movie,The Girl Who Leapt Through Time,Toki o kakeru shôjo,0,2006,\N,98,"Adventure,Animation,Comedy"
+tt0827308,tvEpisode,A Pox in Our House,A Pox in Our House,0,1988,\N,25,"Comedy,Drama,Family"
+tt0831511,tvEpisode,Jingle Hell,Jingle Hell,0,1988,\N,25,"Comedy,Drama,Family"
+tt0834696,tvEpisode,"Where There's a Will, There's a Way: Part 2","Where There's a Will, There's a Way: Part 2",0,1993,\N,23,Comedy
+tt10470796,tvEpisode,Textbook/Hypnosis/Waking Up/Skipping Stones,Textbook/Hypnosis/Waking Up/Skipping Stones,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470798,tvEpisode,Ice/Appearance/Bangs/Valentine's Day,Ice/Appearance/Bangs/Valentine's Day,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470802,tvEpisode,April Fools Day/Blossom Watching/Forms of Address/New School Year,April Fools Day/Blossom Watching/Forms of Address/New School Year,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470806,tvEpisode,Arm Wrestling/Grown-Up/Bitter Taste/Bicycle,Arm Wrestling/Grown-Up/Bitter Taste/Bicycle,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470808,tvEpisode,Questions/Eyebrows/After School/Happy Birthday/Sneeze,Questions/Eyebrows/After School/Happy Birthday/Sneeze,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470812,tvEpisode,Revenge/Dodgeball/Buy and Eat/Date,Revenge/Dodgeball/Buy and Eat/Date,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470814,tvEpisode,Camping Trip,Camping Trip,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470820,tvEpisode,Storage Closet/Nurse's Office/Lottery,Storage Closet/Nurse's Office/Lottery,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470822,tvEpisode,Acchi Muite Hoi/Talents/Worries/Messages,Acchi Muite Hoi/Talents/Worries/Messages,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470826,tvEpisode,Eye Drops/Scoop/Hide and Seek/Treasure Hunting,Eye Drops/Scoop/Hide and Seek/Treasure Hunting,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470830,tvEpisode,Steps/Fireworks/Souvenirs/Promises,Steps/Fireworks/Souvenirs/Promises,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt10470832,tvEpisode,Summerfestival,Summerfestival,0,2019,\N,\N,"Animation,Comedy,Romance"
+tt1053153,tvEpisode,Mars: The Red Planet,Mars: The Red Planet,0,2007,\N,45,"Documentary,History"
+tt1053154,tvEpisode,Secrets of the Sun,Secrets of the Sun,0,2007,\N,45,"Documentary,History"
+tt1053155,tvEpisode,The End of the Earth,The End of the Earth,0,2007,\N,45,"Documentary,History"
+tt1055225,tvEpisode,Jupiter: The Giant Planet,Jupiter: The Giant Planet,0,2007,\N,45,"Documentary,History"
+tt10572504,tvEpisode,The Launch,The Launch,0,2020,\N,35,Comedy
+tt10572508,tvEpisode,Save Epsilon 6!,Save Epsilon 6!,0,2020,\N,32,Comedy
+tt10572514,tvEpisode,Mark and Mallory Go to Washington,Mark and Mallory Go to Washington,0,2020,\N,30,Comedy
+tt10572516,tvEpisode,Lunar Habitat,Lunar Habitat,0,2020,\N,31,Comedy
+tt10572520,tvEpisode,Space Flag,Space Flag,0,2020,\N,30,Comedy
+tt10572522,tvEpisode,The Spy,The Spy,0,2020,\N,34,Comedy
+tt10572524,tvEpisode,Edison Jaymes,Edison Jaymes,0,2020,\N,26,Comedy
+tt10572530,tvEpisode,Conjugal Visit,Conjugal Visit,0,2020,\N,32,Comedy
+tt10572532,tvEpisode,It's Good to Be Back on the Moon,It's Good to Be Back on the Moon,0,2020,\N,35,Comedy
+tt10572536,tvEpisode,Proportionate Response,Proportionate Response,0,2020,\N,36,Comedy
+tt1059163,tvEpisode,The Moon,The Moon,0,2007,\N,44,"Documentary,History"
+tt1070254,tvEpisode,Spaceship Earth,Spaceship Earth,0,2007,\N,45,"Documentary,History"
+tt1073072,tvEpisode,The Inner Planets: Mercury & Venus,The Inner Planets: Mercury & Venus,0,2007,\N,45,"Documentary,History"
+tt1076740,tvEpisode,Saturn: Lord of the Rings,Saturn: Lord of the Rings,0,2007,\N,45,"Documentary,History"
+tt1082788,tvEpisode,Life and Death of a Star,Life and Death of a Star,0,2007,\N,45,"Documentary,History"
+tt1084936,tvEpisode,Alien Galaxies,Alien Galaxies,0,2007,\N,45,"Documentary,History"
+tt1090619,tvEpisode,Most Dangerous Places,Most Dangerous Places,0,2007,\N,45,"Documentary,History"
+tt1090620,tvEpisode,The Outer Planets,The Outer Planets,0,2007,\N,45,"Documentary,History"
+tt1099171,tvEpisode,Search for E.T.,Search for E.T.,0,2007,\N,45,"Documentary,History"
+tt1104001,movie,TRON: Legacy,Tron,0,2010,\N,125,"Action,Adventure,Sci-Fi"
+tt1119104,tvEpisode,Alien Planets,Alien Planets,0,2007,\N,45,"Documentary,History"
+tt11958344,movie,A Whisker Away,Nakitai watashi wa neko o kaburu,0,2020,\N,104,"Adventure,Animation,Drama"
+tt12214632,tvEpisode,This Pandemic,This Pandemic,0,2020,\N,26,Documentary
+tt12228072,tvEpisode,The Race for a Vaccine,The Race for a Vaccine,0,2020,\N,23,Documentary
+tt12228074,tvEpisode,How to Cope,How to Cope,0,2020,\N,20,Documentary
+tt12233448,tvEpisode,Fast Food,Fast Food,0,2020,\N,21,"Documentary,History"
+tt12371318,tvEpisode,The Space Race,The Space Race,0,2020,\N,22,"Documentary,History"
+tt12375344,tvEpisode,The Rise of China,The Rise of China,0,2020,\N,22,"Documentary,History"
+tt12375356,tvEpisode,Plastics,Plastics,0,2020,\N,21,"Documentary,History"
+tt12375360,tvEpisode,Oil and the Middle East,Oil and the Middle East,0,2020,\N,\N,"Documentary,History"
+tt12375364,tvEpisode,Robots,Robots,0,2020,\N,\N,"Documentary,History"
+tt12375370,tvEpisode,Feminism,Feminism,0,2020,\N,\N,"Documentary,History"
+tt12375378,tvEpisode,Nuclear Power,Nuclear Power,0,2020,\N,\N,"Documentary,History"
+tt12375382,tvEpisode,AIDS,AIDS,0,2020,\N,\N,"Documentary,History"
+tt1272824,tvEpisode,House Fancy/Krabby Road,House Fancy/Krabby Road,0,2008,\N,24,"Animation,Comedy,Family"
+tt12937576,tvEpisode,Space For Everyone,Space For Everyone,0,2020,\N,44,"Documentary,History"
+tt12986328,tvEpisode,HELP!,HELP!,0,2020,\N,42,"Documentary,History"
+tt12986334,tvEpisode,A Major Malfunction,A Major Malfunction,0,2020,\N,41,"Documentary,History"
+tt12986336,tvEpisode,Nothing Ends Here,Nothing Ends Here,0,2020,\N,52,"Documentary,History"
+tt1301092,tvEpisode,Tora to ryû,Tora to ryû,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301093,tvEpisode,Ryûji to taiga,Ryûji to taiga,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301094,tvEpisode,Kimi no uta,Kimi no uta,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301095,tvEpisode,Anotoki no kao,Anotoki no kao,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301096,tvEpisode,Kawashima Ami,Kawashima Ami,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301097,tvEpisode,Honto no jibun,Honto no jibun,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301098,tvEpisode,Pûru biraki,Pûru biraki,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301099,tvEpisode,Dare no tame,Dare no tame,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1301100,tvEpisode,Umi ni ikô to kimi wa,Umi ni ikô to kimi wa,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1326691,tvEpisode,Hanabi,Hanabi,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1326692,tvEpisode,Ôhashi kôkô bunkasai Chûhen,Ôhashi kôkô bunkasai Chûhen,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1326693,tvEpisode,Ôhashi kôkô bunkasai Zenpen,Ôhashi kôkô bunkasai Zenpen,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1336562,tvEpisode,Shiawase no tenori taigâ,Shiawase no tenori taigâ,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1336929,tvEpisode,Ôhashi kôkô bunkasai Kô'hen,Ôhashi kôkô bunkasai Kô'hen,0,2008,\N,30,"Animation,Comedy,Drama"
+tt1356237,tvEpisode,Fumi dasu ippo,Fumi dasu ippo,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1356238,tvEpisode,Hoshi wa tôku,Hoshi wa tôku,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1361263,tvEpisode,Kurisumasu ni suisei wa gyakkô suru,Kurisumasu ni suisei wa gyakkô suru,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1361264,tvEpisode,Momi no ki no shita de,Momi no ki no shita de,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1369400,tvEpisode,Seiyasai,Seiyasai,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1369401,tvEpisode,"Zutto, konomama","Zutto, konomama",0,2009,\N,30,"Animation,Comedy,Drama"
+tt1381490,tvEpisode,Dôshitatte,Dôshitatte,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1390351,tvEpisode,Kimi no iru keshiki,Kimi no iru keshiki,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1390352,tvEpisode,Kokuhaku,Kokuhaku,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1390353,tvEpisode,Susumubeki michi,Susumubeki michi,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1390354,tvEpisode,Toradora!,Toradora!,0,2009,\N,30,"Animation,Comedy,Drama"
+tt1589921,tvEpisode,Days Gone Bye,Days Gone Bye,0,2010,\N,67,"Drama,Horror,Thriller"
+tt1623288,movie,ParaNorman,ParaNorman,0,2012,\N,92,"Adventure,Animation,Comedy"
+tt16542412,tvEpisode,Dunkirk,Dunkirk,0,2021,\N,\N,"Documentary,History,War"
+tt16542414,tvEpisode,The Battle of the Atlantic,The Battle of the Atlantic,0,2021,\N,\N,"Documentary,History,War"
+tt16542592,tvEpisode,The Invasion of North Africa,The Invasion of North Africa,0,2021,\N,\N,"Documentary,History,War"
+tt16542830,tvEpisode,The Battle of Kursk,The Battle of Kursk,0,2021,\N,\N,"Documentary,History,War"
+tt16542940,tvEpisode,The Invasion of Italy,The Invasion of Italy,0,2021,\N,\N,"Documentary,History,War"
+tt1664529,tvEpisode,The Blind Banker,The Blind Banker,0,2010,\N,89,"Crime,Drama,Mystery"
+tt1664530,tvEpisode,The Great Game,The Great Game,0,2010,\N,89,"Crime,Drama,Mystery"
+tt1665071,tvEpisode,A Study in Pink,A Study in Pink,0,2010,\N,88,"Crime,Drama,Mystery"
+tt1839494,movie,Children Who Chase Lost Voices,Hoshi o ou kodomo,0,2011,\N,116,"Adventure,Animation,Drama"
+tt1942612,tvEpisode,A Scandal in Belgravia,A Scandal in Belgravia,0,2012,\N,89,"Crime,Drama,Mystery"
+tt1942613,tvEpisode,The Hounds of Baskerville,The Hounds of Baskerville,0,2012,\N,88,"Crime,Drama,Mystery"
+tt1942614,tvEpisode,The Reichenbach Fall,The Reichenbach Fall,0,2012,\N,88,"Crime,Drama,Mystery"
+tt1949633,tvEpisode,Chou heiwa basutazu,Chou heiwa basutazu,0,2011,\N,24,"Adventure,Animation,Drama"
+tt1949634,tvEpisode,Menmawo sagasou no kai,Menmawo sagasou no kai,0,2011,\N,22,"Adventure,Animation,Drama"
+tt1949635,tvEpisode,"Shiro no, ribon no wanpisu","Shiro no, ribon no wanpisu",0,2011,\N,\N,"Adventure,Animation,Drama"
+tt1949636,tvEpisode,Yuusha menma,Yuusha menma,0,2011,\N,\N,"Adventure,Animation,Drama"
+tt1958145,tvEpisode,Tunnel - Tonneru,Tunnel - Tonneru,0,2011,\N,\N,"Adventure,Animation,Drama"
+tt2011435,tvEpisode,Ano Natsu ni Saku Hana,Ano Natsu ni Saku Hana,0,2011,\N,\N,"Adventure,Animation,Drama"
+tt2011436,tvEpisode,"Forget It, Don't Forget","Forget It, Don't Forget",0,2011,\N,\N,"Adventure,Animation,Drama"
+tt2011437,tvEpisode,Hanabi,Hanabi,0,2011,\N,\N,"Adventure,Animation,Drama"
+tt2011438,tvEpisode,I Wonder,I Wonder,0,2011,\N,23,"Adventure,Animation,Drama"
+tt2011439,tvEpisode,The Real Wish,The Real Wish,0,2011,\N,22,"Adventure,Animation,Drama"
+tt2012701,tvEpisode,Minna to Menma,Minna to Menma,0,2011,\N,22,"Adventure,Animation,Drama"
+tt2140203,movie,Wolf Children,Ôkami kodomo no Ame to Yuki,0,2012,\N,117,"Animation,Drama,Fantasy"
+tt2189771,tvEpisode,The Empty Hearse,The Empty Hearse,0,2014,\N,88,"Crime,Drama,Mystery"
+tt2279373,movie,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,0,2015,\N,92,"Adventure,Animation,Comedy"
+tt2709768,movie,The Secret Life of Pets,The Secret Life of Pets,0,2016,\N,87,"Adventure,Animation,Comedy"
+tt2781042,tvEpisode,The Sign of Three,The Sign of Three,0,2014,\N,86,"Crime,Drama,Mystery"
+tt2781046,tvEpisode,His Last Vow,His Last Vow,0,2014,\N,89,"Crime,Drama,Mystery"
+tt3381878,tvEpisode,Many Happy Returns,Many Happy Returns,0,2013,\N,7,"Crime,Drama,Mystery"
+tt3538760,tvEpisode,The Six Thatchers,The Six Thatchers,0,2017,\N,88,"Crime,Drama,Mystery"
+tt3845888,tvEpisode,The Lying Detective,The Lying Detective,0,2017,\N,89,"Crime,Drama,Mystery"
+tt3845892,tvEpisode,The Final Problem,The Final Problem,0,2017,\N,89,"Crime,Drama,Mystery"
+tt4302938,movie,Kubo and the Two Strings,Kubo and the Two Strings,0,2016,\N,101,"Action,Adventure,Animation"
+tt4569062,tvEpisode,Saikyô no otoko,Saikyô no otoko,0,2015,\N,25,"Action,Animation,Comedy"
+tt4831682,movie,Little Witch Academia: The Enchanted Parade,Ritoru wicchi akademia: Mahoujihikake no parêdo,0,2015,\N,54,"Animation,Comedy,Family"
+tt5109276,tvEpisode,Kokô no saibôgu,Kokô no saibôgu,0,2015,\N,24,"Action,Animation,Comedy"
+tt5109278,tvEpisode,Shûnen no kagakusha,Shûnen no kagakusha,0,2015,\N,24,"Action,Animation,Comedy"
+tt5152430,tvEpisode,Imadoki no ninja,Imadoki no ninja,0,2015,\N,24,"Action,Animation,Comedy"
+tt5169658,tvEpisode,Kyûkoku no shi,Kyûkoku no shi,0,2015,\N,24,"Action,Animation,Comedy"
+tt5173426,tvEpisode,Saikyô no toshi,Saikyô no toshi,0,2015,\N,24,"Action,Animation,Comedy"
+tt5203540,tvEpisode,Shikô no deshi,Shikô no deshi,0,2015,\N,24,"Action,Animation,Comedy"
+tt5220908,tvEpisode,Shinkai no Ô,Shinkai no Ô,0,2015,\N,24,"Action,Animation,Comedy"
+tt5236798,tvEpisode,Fukutsu no seigi,Fukutsu no seigi,0,2015,\N,24,"Action,Animation,Comedy"
+tt5252356,tvEpisode,Katsute nai hodo no kiki,Katsute nai hodo no kiki,0,2015,\N,24,"Action,Animation,Comedy"
+tt5257562,tvEpisode,Zen ushû no hasha,Zen ushû no hasha,0,2015,\N,24,"Action,Animation,Comedy"
+tt5271822,tvEpisode,Saikyô no hîrô,Saikyô no hîrô,0,2015,\N,24,"Action,Animation,Comedy"
+tt5311514,movie,Your Name.,Kimi no na wa.,0,2016,\N,106,"Animation,Drama,Fantasy"
+tt5323662,movie,A Silent Voice: The Movie,Koe no katachi,0,2016,\N,130,"Animation,Drama"
+tt5877802,tvEpisode,Novo Mundo,Novo Mundo,0,2016,\N,47,"Adventure,Drama,Sci-Fi"
+tt5877806,tvEpisode,Grounded,Grounded,0,2016,\N,47,"Adventure,Drama,Sci-Fi"
+tt5877808,tvEpisode,Pressure Drop,Pressure Drop,0,2016,\N,47,"Adventure,Drama,Sci-Fi"
+tt5877810,tvEpisode,Power,Power,0,2016,\N,47,"Adventure,Drama,Sci-Fi"
+tt5877814,tvEpisode,Darkest Days,Darkest Days,0,2016,\N,47,"Adventure,Drama,Sci-Fi"
+tt5877816,tvEpisode,Crossroads,Crossroads,0,2016,\N,46,"Adventure,Drama,Sci-Fi"
+tt5959952,movie,Mission Control: The Unsung Heroes of Apollo,Mission Control: The Unsung Heroes of Apollo,0,2017,\N,101,"Documentary,History"
+tt6156390,tvEpisode,Mercy,Mercy,0,2017,\N,47,"Drama,Horror,Thriller"
+tt6198638,tvEpisode,The Damned,The Damned,0,2017,\N,42,"Drama,Horror,Thriller"
+tt6198656,tvEpisode,Monsters,Monsters,0,2017,\N,41,"Drama,Horror,Thriller"
+tt6198662,tvEpisode,Some Guy,Some Guy,0,2017,\N,42,"Drama,Horror,Thriller"
+tt6198668,tvEpisode,The Big Scary U,The Big Scary U,0,2017,\N,52,"Drama,Horror,Thriller"
+tt6207930,tvEpisode,"The King, the Widow and Rick","The King, the Widow and Rick",0,2017,\N,45,"Drama,Horror,Thriller"
+tt6317962,movie,Fireworks,"Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",0,2017,\N,90,"Animation,Drama,Fantasy"
+tt6325296,tvEpisode,Time for After,Time for After,0,2017,\N,44,"Drama,Horror,Thriller"
+tt6327118,tvEpisode,How It's Gotta Be,How It's Gotta Be,0,2017,\N,62,"Drama,Horror,Thriller"
+tt6337078,tvEpisode,Honor,Honor,0,2018,\N,56,"Drama,Horror,Thriller"
+tt6337088,tvEpisode,The Lost and the Plunderers,The Lost and the Plunderers,0,2018,\N,45,"Drama,Horror,Thriller"
+tt6337096,tvEpisode,Dead or Alive Or,Dead or Alive Or,0,2018,\N,45,"Drama,Horror,Thriller"
+tt6379212,tvEpisode,The Town Along the River,The Town Along the River,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt6379218,tvEpisode,Beyond the Bridge,Beyond the Bridge,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt6379222,tvEpisode,Beyond the Night Sky,Beyond the Night Sky,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt6379224,tvEpisode,V.S.,V.S.,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt6425294,tvEpisode,A New Beginning,A New Beginning,0,2017,\N,24,"Animation,Comedy,Family"
+tt6443478,tvEpisode,Pappiliodya,Pappiliodya,0,2017,\N,25,"Animation,Comedy,Family"
+tt6463366,tvEpisode,Don't Stop Me Now,Don't Stop Me Now,0,2017,\N,25,"Animation,Comedy,Family"
+tt6483160,tvEpisode,Nightfall,Nightfall,0,2017,\N,25,"Animation,Comedy,Family"
+tt6516610,tvEpisode,Luna Nova and the White Dragon,Luna Nova and the White Dragon,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6536080,tvEpisode,The Fountain of Polaris,The Fountain of Polaris,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6556966,tvEpisode,Orange Submariner,Orange Submariner,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6582350,tvEpisode,Sleeping Sucy,Sleeping Sucy,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6617636,tvEpisode,Brightonberry's Undead Travel Log,Brightonberry's Undead Travel Log,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6644158,tvEpisode,Bee Commotion,Bee Commotion,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6668832,tvEpisode,Blue Moon,Blue Moon,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6700366,tvEpisode,What You Will,What You Will,0,2017,\N,\N,"Animation,Comedy,Family"
+tt6730576,tvEpisode,Samhain Magic,Samhain Magic,0,2017,\N,\N,"Animation,Comedy,Family"
+tt7282032,tvEpisode,Setting Sun/Ramune,Setting Sun/Ramune,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7381692,tvEpisode,Death Dive to Saturn,Death Dive to Saturn,0,2017,\N,44,Documentary
+tt7521400,short,The Search for Life in Space,The Search for Life in Space,0,2016,\N,32,"Documentary,Short"
+tt7674710,tvEpisode,Over the Cuckoo's Nest,Over the Cuckoo's Nest,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7674716,tvEpisode,Child of God,Child of God,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7674724,tvEpisode,Teach Me How to Play Shogi,Teach Me How to Play Shogi,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7674728,tvEpisode,Image/Distant Thunder: Part 1,Image/Distant Thunder: Part 1,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7674738,tvEpisode,Distant Thunder: Parts 2 & 3,Distant Thunder: Parts 2 & 3,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7674742,tvEpisode,Something Given: Parts 1 & 2,Something Given: Parts 1 & 2,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7721562,tvEpisode,The Old Year/The New Year,The Old Year/The New Year,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7726082,tvEpisode,Episode #1.12,Episode #1.12,0,2016,\N,\N,"Animation,Comedy,Drama"
+tt7726088,tvEpisode,What Lies on the Opposite Shore/Black River: Part 1,What Lies on the Opposite Shore/Black River: Part 1,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726092,tvEpisode,Black River: Part 2/Beyond the Door,Black River: Part 2/Beyond the Door,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726094,tvEpisode,Blinding Darkness/Just a Little Water,Blinding Darkness/Just a Little Water,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726096,tvEpisode,Moonlight/Lump of Ego,Moonlight/Lump of Ego,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726098,tvEpisode,Running Through the Night/Middle of the Slope,Running Through the Night/Middle of the Slope,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726100,tvEpisode,Silver Thread/Water's Surface/Base of the Blue Nigh,Silver Thread/Water's Surface/Base of the Blue Nigh,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726106,tvEpisode,Torrent/Passing TIme,Torrent/Passing TIme,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726110,tvEpisode,Passing the Night/Kyoto: Part 1,Passing the Night/Kyoto: Part 1,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726114,tvEpisode,Kyoto: Parts 2 & 3,Kyoto: Parts 2 & 3,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7726116,tvEpisode,When the Cherry Blossoms Bloom/Small Murmur,When the Cherry Blossoms Bloom/Small Murmur,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt7851500,tvEpisode,Black Hole Apocalypse,Black Hole Apocalypse,0,2018,\N,111,Documentary
+tt8176578,movie,Flavors of Youth,Si shi qing chun,0,2018,\N,74,"Animation,Drama,Romance"
+tt8753660,movie,Ghost Killers vs. Bloody Mary,Exterminadores do Além Contra a Loira do Banheiro,0,2018,\N,108,"Comedy,Horror"
+tt8792382,tvEpisode,Chaos/Kumakura,Chaos/Kumakura,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792414,tvEpisode,June/Ladybug Bush: Part 1,June/Ladybug Bush: Part 1,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792422,tvEpisode,Ladybug Bush (Parts 2 & 3)/Feelings,Ladybug Bush (Parts 2 & 3)/Feelings,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792428,tvEpisode,Feelings/Confession,Feelings/Confession,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792554,tvEpisode,Small World/Letter,Small World/Letter,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792564,tvEpisode,Start of the Rainy Season/Hachiya,Start of the Rainy Season/Hachiya,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792568,tvEpisode,Midday Moon/Adventurers,Midday Moon/Adventurers,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792574,tvEpisode,Kingdom,Kingdom,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792582,tvEpisode,Silver Wings/River Scenery,Silver Wings/River Scenery,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792808,tvEpisode,Where the Sun Shines/Small World,Where the Sun Shines/Small World,0,2017,\N,\N,"Animation,Comedy,Drama"
+tt8792818,tvEpisode,Black Mist/Light,Black Mist/Light,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792824,tvEpisode,Small Palm/Sunny Place,Small Palm/Sunny Place,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792832,tvEpisode,Flowing Away/White Storm: Part 1,Flowing Away/White Storm: Part 1,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792836,tvEpisode,White Storm (Parts 2-4),White Storm (Parts 2-4),0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792844,tvEpisode,White Storm: Part 5/Restart,White Storm: Part 5/Restart,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792850,tvEpisode,Burnt Field (Parts 1-2),Burnt Field (Parts 1-2),0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792858,tvEpisode,Burnt Field (Parts 3-4),Burnt Field (Parts 3-4),0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792864,tvEpisode,Being Here/Summer Vacation: Part 1,Being Here/Summer Vacation: Part 1,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792870,tvEpisode,Summer Vacation: Part 2/New Year,Summer Vacation: Part 2/New Year,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792876,tvEpisode,Passing Time/Spring Comes,Passing Time/Spring Comes,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt8792878,tvEpisode,The Other House/Child of March Town,The Other House/Child of March Town,0,2018,\N,\N,"Animation,Comedy,Drama"
+tt9103946,tvEpisode,Blitzkrieg,Blitzkrieg,0,2019,\N,50,"Documentary,History,War"
+tt9103948,tvEpisode,Battle of Britain,Battle of Britain,0,2019,\N,50,"Documentary,History,War"
+tt9103952,tvEpisode,Pearl Harbor,Pearl Harbor,0,2019,\N,50,"Documentary,History,War"
+tt9103954,tvEpisode,Battle of Midway,Battle of Midway,0,2019,\N,50,"Documentary,History,War"
+tt9103958,tvEpisode,Siege of Stalingrad,Siege of Stalingrad,0,2019,\N,50,"Documentary,History,War"
+tt9103960,tvEpisode,D-Day,D-Day,0,2019,\N,50,"Documentary,History,War"
+tt9103964,tvEpisode,Battle of the Bulge,Battle of the Bulge,0,2019,\N,50,"Documentary,History,War"
+tt9103966,tvEpisode,Dresden Firestorm,Dresden Firestorm,0,2019,\N,50,"Documentary,History,War"
+tt9103970,tvEpisode,Liberation of Buchenwald,Liberation of Buchenwald,0,2019,\N,50,"Documentary,History,War"
+tt9103988,tvEpisode,Hiroshima,Hiroshima,0,2019,\N,50,"Documentary,History,War"
