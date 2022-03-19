@@ -30,10 +30,10 @@ Date,titleId,Title,episodeId,Episode,seasonNumber,episodeNumber
 28/03/2021,tt6074794,Sangatsu no Lion,tt8792876,Episódio 21,2,21
 27/03/2021,tt6074794,Sangatsu no Lion,tt8792870,Episódio 20,2,20
 27/03/2021,tt6074794,Sangatsu no Lion,tt8792864,Episódio 19,2,19
-15/02/2021,tt12930534,Challenger: The Final Flight,,Nada acaba aqui,,4
-15/02/2021,tt12930534,Challenger: The Final Flight,,Uma grande avaria,,3
-08/02/2021,tt12930534,Challenger: The Final Flight,,Socorro!,,2
-07/02/2021,tt12930534,Challenger: The Final Flight,,O espaço para todos,,1
+15/02/2021,tt12930534,Challenger: The Final Flight,tt12986336,Nada acaba aqui,1,4
+15/02/2021,tt12930534,Challenger: The Final Flight,tt12986334,Uma grande avaria,1,3
+08/02/2021,tt12930534,Challenger: The Final Flight,tt12986328,Socorro!,1,2
+07/02/2021,tt12930534,Challenger: The Final Flight,tt12937576,O espaço para todos,1,1
 16/01/2021,tt6074794,Sangatsu no Lion,tt8792858,Episódio 18,2,18
 15/01/2021,tt6074794,Sangatsu no Lion,tt8792850,Episódio 17,2,17
 14/01/2021,tt6074794,Sangatsu no Lion,tt8792844,Episódio 16,2,16
@@ -85,7 +85,7 @@ Date,titleId,Title,episodeId,Episode,seasonNumber,episodeNumber
 08/10/2020,tt5959952,Mission Control: The Unsung Heroes of Apollo,,,,
 04/10/2020,tt6074794,Sangatsu no Lion,tt6379218,Episódio 2,1,2
 02/10/2020,tt6074794,Sangatsu no Lion,tt6379212,Episódio 1,1,1
-08/09/2020,tt2910906,The Martian,,Um novo lar,1,1
+08/09/2020,tt4939064,The Martian,tt5877802,Um novo lar,1,1
 07/08/2020,tt1279024,Toradora!,tt1390354,Toradora!,1,25
 07/08/2020,tt1279024,Toradora!,tt1390352,Confissão,1,24
 07/08/2020,tt1279024,Toradora!,tt1390353,O caminho a ser seguido,1,23
@@ -121,17 +121,17 @@ Date,titleId,Title,episodeId,Episode,seasonNumber,episodeNumber
 23/06/2020,tt11958648,History 101,tt12371318,Corrida espacial,1,2
 23/06/2020,tt11958648,History 101,tt12233448,Fast Food,1,1
 21/06/2020,tt11958344,A Whisker Away,,,,
-20/06/2020,tt12189310,"Coronavirus, Explained",,Como encarar,,3
-18/06/2020,tt2910906,The Martian,,Momento de decisão,1,6
-18/06/2020,tt12189310,"Coronavirus, Explained",,Corrida por uma vacina,,2
-17/06/2020,tt2910906,The Martian,,Tempos difíceis,1,5
-17/06/2020,tt2910906,The Martian,,Energia,1,4
-16/06/2020,tt2910906,The Martian,,Queda de pressão,1,3
-16/06/2020,tt2910906,The Martian,,Com os pés no chão,1,2
+20/06/2020,tt12189310,"Coronavirus, Explained",tt12228074,Como encarar,1,3
+18/06/2020,tt4939064,The Martian,tt5877816,Momento de decisão,1,6
+18/06/2020,tt12189310,"Coronavirus, Explained",tt12228072,Corrida por uma vacina,1,2
+17/06/2020,tt4939064,The Martian,tt5877814,Tempos difíceis,1,5
+17/06/2020,tt4939064,The Martian,tt5877810,Energia,1,4
+16/06/2020,tt4939064,The Martian,tt5877808,Queda de pressão,1,3
+16/06/2020,tt4939064,The Martian,tt5877806,Com os pés no chão,1,2
 14/06/2020,tt7521400,The Search for Life in Space,,,,
-14/06/2020,tt12189310,"Coronavirus, Explained",,A atual pandemia,,1
-14/06/2020,tt0206501,Nova,,Death Dive to Saturn,,19
-13/06/2020,tt0206501,Nova,,Black Hole Apocalypse,,1
+14/06/2020,tt12189310,"Coronavirus, Explained",tt12214632,A atual pandemia,1,1
+14/06/2020,tt0206501,Nova,tt7381692,Death Dive to Saturn,44,19
+13/06/2020,tt0206501,Nova,tt7851500,Black Hole Apocalypse,45,1
 28/05/2020,tt1051155,The Universe,tt1099171,A busca pelo ET,1,13
 27/05/2020,tt1051155,The Universe,tt1090619,O lugar mais perigoso do Universo,1,12
 27/05/2020,tt1051155,The Universe,tt1090620,Os Planetas Exteriores,1,11
