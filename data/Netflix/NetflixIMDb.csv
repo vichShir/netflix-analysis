@@ -1,450 +1,437 @@
-Date,titleId,Title,episodeId,Episode,seasonNumber,episodeNumber
-14/02/2022,tt16477402,WWII in Color: Road to Victory,tt16542940,Ocupação da Itália,1,5
-08/02/2022,tt16477402,WWII in Color: Road to Victory,tt16542830,Batalha de Kursk,1,4
-31/01/2022,tt16477402,WWII in Color: Road to Victory,tt16542592,Ocupação do Norte da África,1,3
-30/12/2021,tt16477402,WWII in Color: Road to Victory,tt16542414,Batalha do Atlântico,1,2
-27/12/2021,tt16477402,WWII in Color: Road to Victory,tt16542412,Dunquerque,1,1
-14/11/2021,tt9103932,Greatest Events of WWII in Colour,tt9103988,Hiroshima,1,10
-13/11/2021,tt9103932,Greatest Events of WWII in Colour,tt9103970,Libertação de Buchenwald,1,9
-08/11/2021,tt9103932,Greatest Events of WWII in Colour,tt9103966,Bombardeio de Dresden,1,8
-07/11/2021,tt9103932,Greatest Events of WWII in Colour,tt9103964,Batalha do Bulge,1,7
-30/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103960,Dia D,1,6
-15/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103958,Cerco de Stalingrado,1,5
-12/10/2021,tt1051155,The Universe,tt1119104,Alien Planets,2,1
-12/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103954,Batalha de Midway,1,4
-12/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103952,Pearl Harbor,1,3
-10/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103948,Batalha da Grã-Bretanha,1,2
-08/10/2021,tt9103932,Greatest Events of WWII in Colour,tt9103946,Guerra-relâmpago,1,1
-03/06/2021,tt1520211,The Walking Dead,tt6337096,Morto ou vivo,8,11
-22/05/2021,tt1520211,The Walking Dead,tt6337088,Os perdidos e os saqueadores,8,10
-16/05/2021,tt1520211,The Walking Dead,tt6337078,Honra,8,9
-15/05/2021,tt1520211,The Walking Dead,tt6327118,Como vai ser,8,8
-14/05/2021,tt1520211,The Walking Dead,tt6325296,Tempo para depois,8,7
-10/05/2021,tt1520211,The Walking Dead,tt6207930,"O rei, a viúva e Rick",8,6
-09/05/2021,tt1520211,The Walking Dead,tt6198668,Cerco assustador,8,5
-08/05/2021,tt1520211,The Walking Dead,tt6198662,Um cara aí,8,4
-07/05/2021,tt1520211,The Walking Dead,tt6198656,Monstros,8,3
-02/05/2021,tt1520211,The Walking Dead,tt6198638,Os condenados,8,2
-01/05/2021,tt1520211,The Walking Dead,tt6156390,Misericórdia,8,1
-28/03/2021,tt6074794,Sangatsu no Lion,tt8792878,Episódio 22,2,22
-28/03/2021,tt6074794,Sangatsu no Lion,tt8792876,Episódio 21,2,21
-27/03/2021,tt6074794,Sangatsu no Lion,tt8792870,Episódio 20,2,20
-27/03/2021,tt6074794,Sangatsu no Lion,tt8792864,Episódio 19,2,19
-15/02/2021,tt12930534,Challenger: The Final Flight,tt12986336,Nada acaba aqui,1,4
-15/02/2021,tt12930534,Challenger: The Final Flight,tt12986334,Uma grande avaria,1,3
-08/02/2021,tt12930534,Challenger: The Final Flight,tt12986328,Socorro!,1,2
-07/02/2021,tt12930534,Challenger: The Final Flight,tt12937576,O espaço para todos,1,1
-16/01/2021,tt6074794,Sangatsu no Lion,tt8792858,Episódio 18,2,18
-15/01/2021,tt6074794,Sangatsu no Lion,tt8792850,Episódio 17,2,17
-14/01/2021,tt6074794,Sangatsu no Lion,tt8792844,Episódio 16,2,16
-14/01/2021,tt6074794,Sangatsu no Lion,tt8792836,Episódio 15,2,15
-14/01/2021,tt6074794,Sangatsu no Lion,tt8792832,Episódio 14,2,14
-12/01/2021,tt6074794,Sangatsu no Lion,tt8792824,Episódio 13,2,13
-11/01/2021,tt6074794,Sangatsu no Lion,tt8792818,Episódio 12,2,12
-08/01/2021,tt6074794,Sangatsu no Lion,tt8792808,Episódio 11,2,11
-05/01/2021,tt6074794,Sangatsu no Lion,tt8792582,Episódio 10,2,10
-03/01/2021,tt6074794,Sangatsu no Lion,tt8792574,Episódio 9,2,9
-03/01/2021,tt6074794,Sangatsu no Lion,tt8792568,Episódio 8,2,8
-02/01/2021,tt6074794,Sangatsu no Lion,tt8792564,Episódio 7,2,7
-01/01/2021,tt6074794,Sangatsu no Lion,tt8792554,Episódio 6,2,6
-29/12/2020,tt6074794,Sangatsu no Lion,tt8792428,Episódio 5,2,5
-28/12/2020,tt6074794,Sangatsu no Lion,tt8792422,Episódio 4,2,4
-27/12/2020,tt6074794,Sangatsu no Lion,tt8792414,Episódio 3,2,3
-26/12/2020,tt6074794,Sangatsu no Lion,tt8792382,Episódio 2,2,2
-22/12/2020,tt6074794,Sangatsu no Lion,tt7282032,Episódio 1,2,1
-02/12/2020,tt9612516,Space Force,tt10572536,Reação proporcional,1,10
-30/11/2020,tt9612516,Space Force,tt10572532,De volta à Lua,1,9
-29/11/2020,tt9612516,Space Force,tt10572530,Visita íntima,1,8
-24/11/2020,tt9612516,Space Force,tt10572524,Edison Jaymes,1,7
-22/11/2020,tt9612516,Space Force,tt10572522,O espião,1,6
-21/11/2020,tt9612516,Space Force,tt10572520,Jogo de guerra,1,5
-20/11/2020,tt9612516,Space Force,tt10572516,Habitat lunar,1,4
-17/11/2020,tt9612516,Space Force,tt10572514,Mark e Mallory vão a Washington,1,3
-16/11/2020,tt9612516,Space Force,tt10572508,Salvando o Epsilon 6!,1,2
-14/11/2020,tt9612516,Space Force,tt10572504,O lançamento,1,1
-05/11/2020,tt6074794,Sangatsu no Lion,tt7726116,Episódio 22,1,22
-04/11/2020,tt6074794,Sangatsu no Lion,tt7726114,Episódio 21,1,21
-04/11/2020,tt6074794,Sangatsu no Lion,tt7726110,Episódio 20,1,20
-03/11/2020,tt6074794,Sangatsu no Lion,tt7726106,Episódio 19,1,19
-02/11/2020,tt6074794,Sangatsu no Lion,tt7726100,Episódio 18,1,18
-01/11/2020,tt6074794,Sangatsu no Lion,tt7726098,Episódio 17,1,17
-31/10/2020,tt6074794,Sangatsu no Lion,tt7726096,Episódio 16,1,16
-30/10/2020,tt6074794,Sangatsu no Lion,tt7726094,Episódio 15,1,15
-30/10/2020,tt6074794,Sangatsu no Lion,tt7726092,Episódio 14,1,14
-29/10/2020,tt6074794,Sangatsu no Lion,tt7726088,Episódio 13,1,13
-27/10/2020,tt6074794,Sangatsu no Lion,tt7726082,Episódio 12,1,12
-26/10/2020,tt6074794,Sangatsu no Lion,tt7721562,Episódio 11,1,11
-25/10/2020,tt6074794,Sangatsu no Lion,tt7674742,Episódio 10,1,10
-25/10/2020,tt6074794,Sangatsu no Lion,tt7674738,Episódio 9,1,9
-25/10/2020,tt6074794,Sangatsu no Lion,tt7674728,Episódio 8,1,8
-24/10/2020,tt6074794,Sangatsu no Lion,tt7674724,Episódio 7,1,7
-24/10/2020,tt6074794,Sangatsu no Lion,tt7674716,Episódio 6,1,6
-23/10/2020,tt6074794,Sangatsu no Lion,tt7674710,Episódio 5,1,5
-22/10/2020,tt6074794,Sangatsu no Lion,tt6379224,Episódio 4,1,4
-14/10/2020,tt6074794,Sangatsu no Lion,tt6379222,Episódio 3,1,3
-08/10/2020,tt5959952,Mission Control: The Unsung Heroes of Apollo,,,,
-04/10/2020,tt6074794,Sangatsu no Lion,tt6379218,Episódio 2,1,2
-02/10/2020,tt6074794,Sangatsu no Lion,tt6379212,Episódio 1,1,1
-08/09/2020,tt4939064,The Martian,tt5877802,Um novo lar,1,1
-07/08/2020,tt1279024,Toradora!,tt1390354,Toradora!,1,25
-07/08/2020,tt1279024,Toradora!,tt1390352,Confissão,1,24
-07/08/2020,tt1279024,Toradora!,tt1390353,O caminho a ser seguido,1,23
-07/08/2020,tt1279024,Toradora!,tt1390351,Quando você está por perto,1,22
-07/08/2020,tt1279024,Toradora!,tt1381490,Não consigo evitar,1,21
-06/08/2020,tt1279024,Toradora!,tt1369401,Permaneça assim para sempre,1,20
-06/08/2020,tt1279024,Toradora!,tt1369400,Festa da véspera de Natal,1,19
-06/08/2020,tt1279024,Toradora!,tt1361264,Debaixo do pinheiro,1,18
-06/08/2020,tt1279024,Toradora!,tt1361263,Mercúrio retrógrado no Natal,1,17
-06/08/2020,tt1279024,Toradora!,tt1356237,Um passo à frente,1,16
-05/08/2020,tt1279024,Toradora!,tt1356238,Estrelas estão distantes,1,15
-05/08/2020,tt1279024,Toradora!,tt1336562,Tigre de Bolso da Felicidade,1,14
-05/08/2020,tt1279024,Toradora!,tt1336929,Festival cultural da escola de ensino médio Oohashi – Parte 3,1,13
-05/08/2020,tt1279024,Toradora!,tt1326692,Festival cultural da escola de ensino médio Oohashi – Parte 2,1,12
-04/08/2020,tt1279024,Toradora!,tt1326693,Festival cultural da escola de ensino médio Oohashi – Parte 1,1,11
-04/08/2020,tt1279024,Toradora!,tt1326691,Fogos de artifício,1,10
-04/08/2020,tt1279024,Toradora!,tt1301100,Quando você vai à praia,1,9
-04/08/2020,tt1279024,Toradora!,tt1301099,Para quem é isso?,1,8
-04/08/2020,tt1279024,Toradora!,tt1301098,Dia de piscina,1,7
-04/08/2020,tt1279024,Toradora!,tt1301097,O eu verdadeiro,1,6
-03/08/2020,tt1279024,Toradora!,tt1301096,Kawashima Ami,1,5
-03/08/2020,tt1279024,Toradora!,tt1301095,Aquela cara que você fez,1,4
-03/08/2020,tt1279024,Toradora!,tt1301094,Sua canção,1,3
-03/08/2020,tt1279024,Toradora!,tt1301093,Taiga e Ryuji,1,2
-02/08/2020,tt1279024,Toradora!,tt1301092,Tigre e dragão,1,1
-27/06/2020,tt11958648,History 101,tt12375382,Genética,1,9
-27/06/2020,tt11958648,History 101,tt12375378,Energia nuclear,1,8
-26/06/2020,tt11958648,History 101,tt12375370,Feminismo,1,7
-26/06/2020,tt11958648,History 101,tt12375364,Robôs,1,6
-25/06/2020,tt11958648,History 101,tt12375360,Petróleo do Oriente Médio,1,5
-24/06/2020,tt11958648,History 101,tt12375356,Plásticos,1,4
-24/06/2020,tt11958648,History 101,tt12375344,Ascensão da China,1,3
-23/06/2020,tt11958648,History 101,tt12371318,Corrida espacial,1,2
-23/06/2020,tt11958648,History 101,tt12233448,Fast Food,1,1
-21/06/2020,tt11958344,A Whisker Away,,,,
-20/06/2020,tt12189310,"Coronavirus, Explained",tt12228074,Como encarar,1,3
-18/06/2020,tt4939064,The Martian,tt5877816,Momento de decisão,1,6
-18/06/2020,tt12189310,"Coronavirus, Explained",tt12228072,Corrida por uma vacina,1,2
-17/06/2020,tt4939064,The Martian,tt5877814,Tempos difíceis,1,5
-17/06/2020,tt4939064,The Martian,tt5877810,Energia,1,4
-16/06/2020,tt4939064,The Martian,tt5877808,Queda de pressão,1,3
-16/06/2020,tt4939064,The Martian,tt5877806,Com os pés no chão,1,2
-14/06/2020,tt7521400,The Search for Life in Space,,,,
-14/06/2020,tt12189310,"Coronavirus, Explained",tt12214632,A atual pandemia,1,1
-14/06/2020,tt0206501,Nova,tt7381692,Death Dive to Saturn,44,19
-13/06/2020,tt0206501,Nova,tt7851500,Black Hole Apocalypse,45,1
-28/05/2020,tt1051155,The Universe,tt1099171,A busca pelo ET,1,13
-27/05/2020,tt1051155,The Universe,tt1090619,O lugar mais perigoso do Universo,1,12
-27/05/2020,tt1051155,The Universe,tt1090620,Os Planetas Exteriores,1,11
-24/05/2020,tt1051155,The Universe,tt1082788,A vida e a morte de uma estrela,1,10
-23/05/2020,tt1051155,The Universe,tt1084936,Galáxias alienígenas,1,9
-23/05/2020,tt1051155,The Universe,tt1076740,Saturno: o Senhor dos Anéis,1,8
-21/05/2020,tt1051155,The Universe,tt1073072,Mercúrio e Vênus: os Planetas Interiores,1,7
-20/05/2020,tt1051155,The Universe,tt1070254,Espaçonave Terra,1,6
-19/05/2020,tt1051155,The Universe,tt1059163,A Lua,1,5
-16/05/2020,tt1051155,The Universe,tt1055225,Júpiter: o Planeta Gigante,1,4
-26/04/2020,tt1051155,The Universe,tt1053155,O fim da Terra,1,3
-19/04/2020,tt1051155,The Universe,tt1053153,Marte: o Planeta Vermelho,1,2
-19/04/2020,tt1051155,The Universe,tt1053154,Segredos do Sol,1,1
-11/04/2020,tt0245429,Sen to Chihiro no kamikakushi,,,,
-09/03/2020,tt0096283,Tonari no Totoro,,,,
-19/02/2020,tt0092359,Full House,tt0584226,Maré de sorte,5,6
-18/02/2020,tt0092359,Full House,tt0584224,O rei e eu,5,5
-17/02/2020,tt0092359,Full House,tt0776070,Má reputação,5,4
-16/02/2020,tt0092359,Full House,tt0584209,Pode ficar com minha irmã,5,3
-14/02/2020,tt0092359,Full House,tt0584173,A casamenteira,5,2
-14/02/2020,tt0092359,Full House,tt0584130,Problema em dobro,5,1
-12/02/2020,tt0092359,Full House,tt0584194,Bebê a caminho,4,26
-12/02/2020,tt0092359,Full House,tt0584188,Nosso primeiro episódio,1,1
-11/02/2020,tt0092359,Full House,tt0584219,Três formaturas,4,25
-11/02/2020,tt0092359,Full House,tt0584139,Levando bronca,4,24
-09/02/2020,tt0092359,Full House,tt0584157,"Hollywood, Joey está na área",4,23
-07/02/2020,tt0092359,Full House,tt0584204,Tudo por amor,4,22
-07/02/2020,tt0092359,Full House,tt0776001,A gangue da reforma,4,21
-06/02/2020,tt0092359,Full House,tt0775995,Mudança indesejada,4,20
-06/02/2020,tt0092359,Full House,tt0584238,O casamento - Parte 2,4,19
-06/02/2020,tt0092359,Full House,tt0584237,O casamento - Parte 1,4,18
-05/02/2020,tt0092359,Full House,tt0584093,Banho de espuma para peixe,4,17
-05/02/2020,tt0092359,Full House,tt0584203,Stephanie vai longe demais,4,16
-04/02/2020,tt0092359,Full House,tt0584090,Danny já era,4,15
-04/02/2020,tt0092359,Full House,tt0776076,Só meio período,4,14
-03/02/2020,tt0092359,Full House,tt0584149,Feliz Ano Novo,4,13
-02/02/2020,tt0092359,Full House,tt0776062,Danny no comando,4,12
-02/02/2020,tt5311514,Kimi no na wa.,,,,
-01/02/2020,tt0092359,Full House,tt0584197,O admirador secreto,4,11
-21/01/2020,tt0092359,Full House,tt0584212,Um amor de menino,4,10
-20/01/2020,tt0092359,Full House,tt0584184,Só mais um beijo,4,9
-20/01/2020,tt0092359,Full House,tt0584198,Dieta secreta,4,8
-20/01/2020,tt0092359,Full House,tt0584249,Las Joey Vegas,4,7
-19/01/2020,tt0092359,Full House,tt0584096,Um mau conselho,4,6
-19/01/2020,tt0092359,Full House,tt0584141,A escolha do editor,4,5
-19/01/2020,tt0092359,Full House,tt0775997,Festa do pijama,4,4
-19/01/2020,tt8176578,Flavors of Youth,,,,
-19/01/2020,tt0092359,Full House,tt0584223,Proposta indecente,4,3
-18/01/2020,tt0092359,Full House,tt0584119,Tem gente que não quer ver,4,2
-18/01/2020,tt0092359,Full House,tt0584146,Direto da Grécia,4,1
-18/01/2020,tt0092359,Full House,tt0584189,Por uma boa causa,3,24
-17/01/2020,tt0092359,Full House,tt0584138,Relembrando velhos tempos,3,23
-16/01/2020,tt0092359,Full House,tt0584240,Um bebê para cuidar,3,22
-16/01/2020,tt0092359,Full House,tt0584161,"D.J., a injustiçada",3,21
-16/01/2020,tt0092359,Full House,tt0774811,A batida,3,20
-15/01/2020,tt0092359,Full House,tt0584239,Papéis trocados,3,19
-14/01/2020,tt0092359,Full House,tt0584179,Programa para crianças,3,18
-14/01/2020,tt0092359,Full House,tt0584091,13 velinhas,3,17
-14/01/2020,tt0092359,Full House,tt0584113,Onde está o passarinho que estava aqui?,3,16
-13/01/2020,tt0092359,Full House,tt0584170,Confusões amorosas,3,15
-12/01/2020,tt0092359,Full House,tt0584178,Babá sem experiência,3,14
-10/01/2020,tt0092359,Full House,tt0584182,O desafio de Jesse,3,13
-10/01/2020,tt0092359,Full House,tt0584156,"Cometa, para de roer!",3,12
-09/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470832,Episódio 12,2,12
-09/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470830,Episódio 11,2,11
-09/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470826,Episódio 10,2,10
-09/01/2020,tt0092359,Full House,tt0584097,Medo de terremoto,3,11
-08/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470822,Episódio 9,2,9
-08/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470820,Episódio 8,2,8
-08/01/2020,tt0092359,Full House,tt0584220,O melhor aniversário do mundo,3,10
-08/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470814,Episódio 7,2,7
-08/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470812,Episódio 6,2,6
-08/01/2020,tt0092359,Full House,tt0584131,O retorno de velhos hábitos,3,9
-07/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470808,Episódio 5,2,5
-07/01/2020,tt0092359,Full House,tt0584129,Disputa no Halloween,3,8
-06/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470806,Episódio 4,2,4
-06/01/2020,tt0092359,Full House,tt0584100,Amor por cães,3,7
-05/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470802,Episódio 3,2,3
-05/01/2020,tt0092359,Full House,tt0584202,Pode ou não pode?,3,6
-05/01/2020,tt0092359,Full House,tt0584145,Presente da vovó,3,5
-05/01/2020,tt7808344,Karakai Jouzu no Takagi-san,tt10470798,Episódio 2,2,2
-04/01/2020,tt0092359,Full House,tt0584180,Nerd por um dia,3,4
-03/01/2020,tt0092359,Full House,tt0584111,A fada do dente,3,3
-03/01/2020,tt0092359,Full House,tt0584105,Volta às aulas,3,2
-02/01/2020,tt0092359,Full House,tt0760692,A ilha de Tanner,3,1
-02/01/2020,tt0092359,Full House,tt0584169,O grande dia - Parte 2,2,22
-02/01/2020,tt0092359,Full House,tt0584168,O grande dia - Parte 1,2,21
-01/01/2020,tt0092359,Full House,tt0776066,Presente de aniversário,2,20
-01/01/2020,tt0092359,Full House,tt0584109,Surpresa do passado,2,19
-30/12/2019,tt0092359,Full House,tt0584142,"Tchauzinho, Mr. Bear",2,18
-30/12/2019,tt0092359,Full House,tt0584134,El problema de D.J.,2,17
-30/12/2019,tt0092359,Full House,tt0584103,Amor de criança,2,16
-29/12/2019,tt0092359,Full House,tt0584190,Como ficamos amigos,2,15
-28/12/2019,tt0092359,Full House,tt0584165,Dia dos Namorados,2,14
-28/12/2019,tt0092359,Full House,tt0584251,Problema de mãe,2,13
-28/12/2019,tt0092359,Full House,tt0584137,Uma grande confusão,2,12
-27/12/2019,tt0092359,Full House,tt0584095,Romance no ar,2,11
-27/12/2019,tt0092359,Full House,tt0584177,Crise de meia idade,2,10
-27/12/2019,tt0092359,Full House,tt0584185,Nosso primeiro especial de Natal,2,9
-27/12/2019,tt0092359,Full House,tt0584244,Encontro triplo,2,8
-26/12/2019,tt0092359,Full House,tt0776068,Joey em apuros,2,7
-26/12/2019,tt0092359,Full House,tt0584108,Promoção dos Beach Boys,2,6
-24/12/2019,tt0092359,Full House,tt0831511,Novos parceiros,2,5
-24/12/2019,tt0092359,Full House,tt0584124,O primeiro cavalo de D.J.,2,4
-24/12/2019,tt0092359,Full House,tt0584154,Mudança de planos,2,3
-23/12/2019,tt0092359,Full House,tt0584211,Tanner contra Gibbler,2,2
-23/12/2019,tt0092359,Full House,tt0584121,A maldição,2,1
-23/12/2019,tt0092359,Full House,tt0584122,D.J. mata aula,1,22
-23/12/2019,tt0092359,Full House,tt0584171,Empréstimo antigo,1,21
-22/12/2019,tt0092359,Full House,tt0584234,O problema de Jesse - Parte 2,1,20
-22/12/2019,tt0092359,Full House,tt0584233,O problema de Jesse - Parte 1,1,19
-22/12/2019,tt0092359,Full House,tt0584160,D.J. fica de fora,1,18
-22/12/2019,tt0092359,Full House,tt0584126,Primeiro encontro do Danny,1,17
-21/12/2019,tt0092359,Full House,tt0584112,Olho gordo,1,16
-21/12/2019,tt0092359,Full House,tt0827308,Cuidado que pega,1,15
-20/12/2019,tt0092359,Full House,tt0584147,História de amor pela metade,1,14
-20/12/2019,tt0092359,Full House,tt0584200,Amor de irmãs,1,13
-19/12/2019,tt0092359,Full House,tt0584187,Nossa primeira promoção,1,12
-19/12/2019,tt0092359,Full House,tt0584214,Surpresa de aniversário,1,11
-19/12/2019,tt0092359,Full House,tt0584159,A casa nova do Joey,1,10
-18/12/2019,tt0092359,Full House,tt0584227,O milagre de Ação de Graças,1,9
-18/12/2019,tt0092359,Full House,tt0584155,Garota disputada,1,8
-18/12/2019,tt0092359,Full House,tt0584163,Falei demais,1,7
-17/12/2019,tt0092359,Full House,tt0584125,A casa do papai,1,6
-17/12/2019,tt0092359,Full House,tt0584196,O cruzeiro,1,5
-17/12/2019,tt0092359,Full House,tt0584232,Visita da vovó,1,4
-16/12/2019,tt0092359,Full House,tt0584218,Primeiro dia de escola,1,3
-16/12/2019,tt0092359,Full House,tt0584186,Nossa primeira noite,1,2
-16/12/2019,tt0206512,SpongeBob SquarePants,tt1272824,Casa Chique / Estrada do Carsiri,6,1
-16/12/2019,tt7808344,Karakai Jouzu no Takagi-san,tt10470796,Episódio 1,2,1
-15/12/2019,tt0332379,School of Rock,,,,
-14/12/2019,tt1475582,Sherlock,tt3845892,O problema final,4,3
-14/12/2019,tt1475582,Sherlock,tt3845888,O detetive mentiroso,4,2
-09/12/2019,tt1475582,Sherlock,tt3538760,As seis Thatchers,4,1
-08/12/2019,tt1475582,Sherlock,tt3381878,A abominável noiva,3,0
-08/12/2019,tt1475582,Sherlock,tt2781046,Seu último juramento,3,3
-07/12/2019,tt1475582,Sherlock,tt2781042,O sinal dos três,3,2
-06/12/2019,tt1475582,Sherlock,tt2189771,O caixão vazio,3,1
-06/12/2019,tt1475582,Sherlock,tt1942614,A queda de Reichenbach,2,3
-04/12/2019,tt1475582,Sherlock,tt1942613,Os cães de Baskerville,2,2
-02/12/2019,tt1475582,Sherlock,tt1942612,Um escândalo em Belgrávia,2,1
-01/12/2019,tt1475582,Sherlock,tt1664530,O grande jogo,1,3
-30/11/2019,tt1475582,Sherlock,tt1664529,O banqueiro cego,1,2
-29/11/2019,tt1475582,Sherlock,tt1665071,Um estudo em rosa,1,1
-19/11/2019,tt0230011,Atlantis: The Lost Empire,,,,
-18/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582990,Fim da linha: Parte 2,6,24
-17/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582989,Fim da linha: Parte 1,6,23
-17/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582964,Essa foi por pouco,6,22
-16/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582992,Tacada mal planejada,6,21
-16/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582993,Cavalo adotado não se olha os dentes,6,20
-16/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582994,Erros de gravação,6,19
-16/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582977,O coelhinho da Páscoa,6,18
-15/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583043,A culpa é do filho do mordomo,6,17
-15/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582987,A separação é difícil: Parte 2,6,16
-15/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582950,Um round com Helena,6,15
-14/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582949,Instinto materno,6,14
-14/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582988,Saia justa,6,13
-13/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582947,O barbeiro de Bel-Air,6,12
-13/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582991,O Mauricinho na fossa,6,11
-13/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583057,Culpa do estresse,6,10
-12/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583056,De emprego novo,6,9
-12/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583061,Bem passado,6,8
-12/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582969,Para quem os sinos tocam,5,25
-12/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583005,O dilema de Will,5,24
-11/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582957,Comporte-se!,5,23
-11/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583060,A estrela da novela,5,22
-11/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583022,Mentirinha de nada,5,21
-10/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582940,"Bobo, eu!",5,20
-10/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583026,Tudo por amor,5,19
-10/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583055,Onde tudo começou,5,18
-09/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583070,Papai por um dia,5,17
-09/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582935,O pesadelo de Will,5,16
-09/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582951,O filme da minha vida,5,15
-09/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582998,Encontro às cegas,5,14
-09/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583059,A realidade dói,5,13
-08/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583021,Não é bem assim,5,12
-07/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583071,Tudo para impressionar,5,11
-07/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583018,Viagem à Filadélfia,4,24
-05/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583010,Propriedade à venda,4,23
-05/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583006,Erros do passado,4,22
-05/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583048,Dia das Mães,4,21
-04/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583051,O passado bate à porta,4,20
-04/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583077,Noiva safada,4,19
-04/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583031,Uma nova carreira,4,18
-02/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583064,"Pare, em nome do amor!",4,17
-02/11/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582986,Vida de artista,4,16
-31/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583066,A marcha do pavão,4,15
-31/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583025,Quem manda aqui?,4,14
-30/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582933,Insônia em Bel-Air,4,13
-30/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583078,Batizado classe A,4,12
-29/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583034,Morrendo e aprendendo,4,11
-29/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582983,Cafetão de família,4,10
-28/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582970,Saindo da dieta,4,9
-28/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582945,O que conta é o sangue,4,8
-28/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582979,Maré de má sorte,4,7
-28/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583069,Um caso para o tribunal,4,6
-28/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582997,É melhor ter amado e perdido,4,5
-27/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582967,O pai do ano,4,4
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582939,A vitória vem com esforço,4,3
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0834696,Querer é poder: Parte 2,4,2
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583065,Querer é poder: Parte 1,4,1
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583024,Com uma condição,3,24
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583054,As bodas,3,23
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583039,Alarme falso,3,20
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582952,O bebê mais lindo do mundo,3,16
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583009,A hora da verdade,3,13
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583045,Quarentena,3,12
-26/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582936,A contragosto,3,11
-25/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582937,Uma noite com Oprah,3,9
-25/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582978,Lá vem o juiz,3,7
-22/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583016,P.S.: eu te amo,3,6
-22/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583007,Toma que o filho é seu,3,5
-22/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582981,Emprego novo,3,4
-21/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583067,Will se engaja,3,2
-21/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582985,O saldo das férias de verão,3,1
-21/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583033,Striptease,2,24
-21/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582944,Conselheiro sentimental,2,23
-21/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583038,Visita indesejada,2,22
-21/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583062,Quem é esse cara?,2,21
-18/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583058,O engajado,2,20
-18/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582965,Serviço comunitário,2,19
-18/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582995,Empregada de luxo,2,18
-18/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582958,Confiança abalada,2,17
-18/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582972,Mentira tem perna curta,2,16
-18/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583011,Festa de Natal,2,15
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582982,"Faça o bem, vendo a quem",2,14
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582955,Ladrão que rouba ladrão,2,13
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583029,Tudo em família,2,12
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583042,Pode pegar mal,2,11
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582980,Um noivo muito especial,2,10
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582954,Viúva alegre,2,9
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583023,Passando no teste,2,8
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583041,Confusão de gente grande,2,7
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582996,Troca de favores,1,19
-13/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583079,72 horas,1,18
-12/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583046,O amor é burro,1,17
-12/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583049,Jovens indomáveis,1,16
-12/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582961,Aula de história,1,15
-12/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582960,Uma questão de sorte,1,14
-11/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583002,Decoração de Natal,1,13
-11/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583035,Deu a louca no peru,1,12
-11/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582959,Arrasando na quadra,1,11
-11/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583001,A festa é do mordomo,1,10
-11/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583028,Um dia você vai ter o seu príncipe: Parte 2,1,9
-10/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583027,Um dia você vai ter o seu príncipe: Parte 1,1,8
-10/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582962,Dando uma de poeta,1,7
-09/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583008,Identidade trocada,1,6
-08/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582984,"Amigos, sempre amigos",1,5
-08/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583014,Não mexa com meu porco,1,4
-08/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582956,Missão: conquistar o pai,1,3
-08/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0582942,"Arrasa na bateria, Ashley",1,2
-08/10/2019,tt0098800,The Fresh Prince of Bel-Air,tt0583047,A vida do maluco no pedaço,1,1
-02/10/2019,tt4831682,Little Witch Academia: The Enchanted Parade,,,,
-02/10/2019,tt6352180,Little Witch Academia,,,,
-02/10/2019,tt6352180,Little Witch Academia,,Mudança no fim do mundo,2,12
-02/10/2019,tt6352180,Little Witch Academia,,Uma estrada para Arcturus,2,11
-02/10/2019,tt6352180,Little Witch Academia,,Ontem,2,10
-02/10/2019,tt6352180,Little Witch Academia,,O que falamos hoje,2,9
-02/10/2019,tt6352180,Little Witch Academia,,Disciplina,2,8
-02/10/2019,tt6352180,Little Witch Academia,,Inteligência e sensibilidade,2,7
-02/10/2019,tt6352180,Little Witch Academia,,Os Cavendish,2,6
-02/10/2019,tt6352180,Little Witch Academia,,Caçada Selvagem,2,5
-01/10/2019,tt6352180,Little Witch Academia,,Amanda O'Neill e o Santo Graal,2,4
-01/10/2019,tt6352180,Little Witch Academia,,A provação,2,3
-01/10/2019,tt6352180,Little Witch Academia,,Chariot e as Sete Palavras,2,2
-01/10/2019,tt6352180,Little Witch Academia,,Magia moderna,2,1
-01/10/2019,tt6352180,Little Witch Academia,tt6730576,O Festival Samhain,1,13
-01/10/2019,tt6352180,Little Witch Academia,tt6700366,A Bruxa do Luar,1,12
-01/10/2019,tt6352180,Little Witch Academia,tt6668832,Noite de lua azul,1,11
-01/10/2019,tt6352180,Little Witch Academia,tt6644158,A abelha-cupido,1,10
-01/10/2019,tt6352180,Little Witch Academia,tt6617636,O ressuscitado,1,9
-01/10/2019,tt6352180,Little Witch Academia,tt6582350,A busca pela Sucy original,1,8
-30/09/2019,tt6352180,Little Witch Academia,tt6556966,Mandando bem mal,1,7
-30/09/2019,tt6352180,Little Witch Academia,tt6536080,A Fonte de Polaris,1,6
-30/09/2019,tt6352180,Little Witch Academia,tt6516610,A ira dos dragões,1,5
-29/09/2019,tt6352180,Little Witch Academia,tt6483160,A Noite Cai,1,4
-29/09/2019,tt6352180,Little Witch Academia,tt6463366,Nada vai me deter,1,3
-29/09/2019,tt6352180,Little Witch Academia,tt6443478,Papilliodia,1,2
-29/09/2019,tt6352180,Little Witch Academia,tt6425294,Começando do zero,1,1
-22/09/2019,tt6317962,Luzes no Céu: Fireworks,,,,
-21/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt2011435,Episódio 11,1,11
-21/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt2011437,Episódio 10,1,10
-21/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt2012701,Episódio 9,1,9
-21/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt2011438,Episódio 8,1,8
-20/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt2011439,Episódio 7,1,7
-20/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt2011436,Episódio 6,1,6
-20/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt1958145,Episódio 5,1,5
-20/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt1949635,Episódio 4,1,4
-20/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt1949634,Episódio 3,1,3
-19/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt1949636,Episódio 2,1,2
-18/09/2019,tt1913273,Anohana: The Flower We Saw That Day,tt1949633,Episódio 1,1,1
-16/09/2019,tt1104001,Tron: Legacy,,,,
-15/09/2019,tt1839494,Children Who Chase Lost Voices,,,,
-15/09/2019,tt0808506,Toki o kakeru shôjo,,,,
-14/09/2019,tt2140203,Wolf Children,,,,
-13/09/2019,tt5323662,Koe no katachi,,,,
-13/09/2019,tt4508902,One Punch Man: Wanpanman,tt5271822,O herói mais forte,1,12
-13/09/2019,tt4508902,One Punch Man: Wanpanman,tt5257562,Conquistador do universo,1,11
-13/09/2019,tt4508902,One Punch Man: Wanpanman,tt5252356,Perigo incomparável,1,10
-13/09/2019,tt0073174,Inside Out,,,,
-11/09/2019,tt4508902,One Punch Man: Wanpanman,tt5236798,Ciclista da Justiça,1,9
-11/09/2019,tt4508902,One Punch Man: Wanpanman,tt5220908,Rei do Mar Profundo,1,8
-11/09/2019,tt4508902,One Punch Man: Wanpanman,tt5203540,O aprendiz supremo,1,7
-11/09/2019,tt4508902,One Punch Man: Wanpanman,tt5173426,A cidade fantasma,1,6
-10/09/2019,tt4508902,One Punch Man: Wanpanman,tt5169658,O mentor supremo,1,5
-10/09/2019,tt4508902,One Punch Man: Wanpanman,tt5152430,O ninja moderno,1,4
-10/09/2019,tt4508902,One Punch Man: Wanpanman,tt5109278,O cientista obstinado,1,3
-09/09/2019,tt4508902,One Punch Man: Wanpanman,tt5109276,O ciborgue solitário,1,2
-09/09/2019,tt4508902,One Punch Man: Wanpanman,tt4569062,O homem mais poderoso,1,1
-17/07/2019,tt0327597,Coraline,,,,
-04/07/2019,tt4302938,Kubo and the Two Strings,,,,
-03/07/2019,tt1623288,ParaNorman,,,,
-29/06/2019,tt2279373,The SpongeBob Movie: Sponge Out of Water,,,,
-15/06/2019,tt2709768,The Secret Life of Pets,,,,
-07/04/2019,tt1520211,The Walking Dead,tt1589921,"Adeus, passado",1,1
-07/04/2019,tt8753660,Exterminadores do Além Contra a Loira do Banheiro,,,,
+Date,IMDbID
+14/02/2022,tt16542940
+08/02/2022,tt16542830
+31/01/2022,tt16542592
+30/12/2021,tt16542414
+27/12/2021,tt16542412
+14/11/2021,tt9103988
+13/11/2021,tt9103970
+08/11/2021,tt9103966
+07/11/2021,tt9103964
+30/10/2021,tt9103960
+15/10/2021,tt9103958
+12/10/2021,tt1119104
+12/10/2021,tt9103954
+12/10/2021,tt9103952
+10/10/2021,tt9103948
+08/10/2021,tt9103946
+03/06/2021,tt6337096
+22/05/2021,tt6337088
+16/05/2021,tt6337078
+15/05/2021,tt6327118
+14/05/2021,tt6325296
+10/05/2021,tt6207930
+09/05/2021,tt6198668
+08/05/2021,tt6198662
+07/05/2021,tt6198656
+02/05/2021,tt6198638
+01/05/2021,tt6156390
+28/03/2021,tt8792878
+28/03/2021,tt8792876
+27/03/2021,tt8792870
+27/03/2021,tt8792864
+15/02/2021,tt12986336
+15/02/2021,tt12986334
+08/02/2021,tt12986328
+07/02/2021,tt12937576
+16/01/2021,tt8792858
+15/01/2021,tt8792850
+14/01/2021,tt8792844
+14/01/2021,tt8792836
+14/01/2021,tt8792832
+12/01/2021,tt8792824
+11/01/2021,tt8792818
+08/01/2021,tt8792808
+05/01/2021,tt8792582
+03/01/2021,tt8792574
+03/01/2021,tt8792568
+02/01/2021,tt8792564
+01/01/2021,tt8792554
+29/12/2020,tt8792428
+28/12/2020,tt8792422
+27/12/2020,tt8792414
+26/12/2020,tt8792382
+22/12/2020,tt7282032
+02/12/2020,tt10572536
+30/11/2020,tt10572532
+29/11/2020,tt10572530
+24/11/2020,tt10572524
+22/11/2020,tt10572522
+21/11/2020,tt10572520
+20/11/2020,tt10572516
+17/11/2020,tt10572514
+16/11/2020,tt10572508
+14/11/2020,tt10572504
+05/11/2020,tt7726116
+04/11/2020,tt7726114
+04/11/2020,tt7726110
+03/11/2020,tt7726106
+02/11/2020,tt7726100
+01/11/2020,tt7726098
+31/10/2020,tt7726096
+30/10/2020,tt7726094
+30/10/2020,tt7726092
+29/10/2020,tt7726088
+27/10/2020,tt7726082
+26/10/2020,tt7721562
+25/10/2020,tt7674742
+25/10/2020,tt7674738
+25/10/2020,tt7674728
+24/10/2020,tt7674724
+24/10/2020,tt7674716
+23/10/2020,tt7674710
+22/10/2020,tt6379224
+14/10/2020,tt6379222
+08/10/2020,tt5959952
+04/10/2020,tt6379218
+02/10/2020,tt6379212
+08/09/2020,tt5877802
+07/08/2020,tt1390354
+07/08/2020,tt1390352
+07/08/2020,tt1390353
+07/08/2020,tt1390351
+07/08/2020,tt1381490
+06/08/2020,tt1369401
+06/08/2020,tt1369400
+06/08/2020,tt1361264
+06/08/2020,tt1361263
+06/08/2020,tt1356237
+05/08/2020,tt1356238
+05/08/2020,tt1336562
+05/08/2020,tt1336929
+05/08/2020,tt1326692
+04/08/2020,tt1326693
+04/08/2020,tt1326691
+04/08/2020,tt1301100
+04/08/2020,tt1301099
+04/08/2020,tt1301098
+04/08/2020,tt1301097
+03/08/2020,tt1301096
+03/08/2020,tt1301095
+03/08/2020,tt1301094
+03/08/2020,tt1301093
+02/08/2020,tt1301092
+27/06/2020,tt12375382
+27/06/2020,tt12375378
+26/06/2020,tt12375370
+26/06/2020,tt12375364
+25/06/2020,tt12375360
+24/06/2020,tt12375356
+24/06/2020,tt12375344
+23/06/2020,tt12371318
+23/06/2020,tt12233448
+21/06/2020,tt11958344
+20/06/2020,tt12228074
+18/06/2020,tt5877816
+18/06/2020,tt12228072
+17/06/2020,tt5877814
+17/06/2020,tt5877810
+16/06/2020,tt5877808
+16/06/2020,tt5877806
+14/06/2020,tt7521400
+14/06/2020,tt12214632
+14/06/2020,tt7381692
+13/06/2020,tt7851500
+28/05/2020,tt1099171
+27/05/2020,tt1090619
+27/05/2020,tt1090620
+24/05/2020,tt1082788
+23/05/2020,tt1084936
+23/05/2020,tt1076740
+21/05/2020,tt1073072
+20/05/2020,tt1070254
+19/05/2020,tt1059163
+16/05/2020,tt1055225
+26/04/2020,tt1053155
+19/04/2020,tt1053153
+19/04/2020,tt1053154
+11/04/2020,tt0245429
+09/03/2020,tt0096283
+19/02/2020,tt0584226
+18/02/2020,tt0584224
+17/02/2020,tt0776070
+16/02/2020,tt0584209
+14/02/2020,tt0584173
+14/02/2020,tt0584130
+12/02/2020,tt0584194
+12/02/2020,tt0584188
+11/02/2020,tt0584219
+11/02/2020,tt0584139
+09/02/2020,tt0584157
+07/02/2020,tt0584204
+07/02/2020,tt0776001
+06/02/2020,tt0775995
+06/02/2020,tt0584238
+06/02/2020,tt0584237
+05/02/2020,tt0584093
+05/02/2020,tt0584203
+04/02/2020,tt0584090
+04/02/2020,tt0776076
+03/02/2020,tt0584149
+02/02/2020,tt0776062
+02/02/2020,tt5311514
+01/02/2020,tt0584197
+21/01/2020,tt0584212
+20/01/2020,tt0584184
+20/01/2020,tt0584198
+20/01/2020,tt0584249
+19/01/2020,tt0584096
+19/01/2020,tt0584141
+19/01/2020,tt0775997
+19/01/2020,tt8176578
+19/01/2020,tt0584223
+18/01/2020,tt0584119
+18/01/2020,tt0584146
+18/01/2020,tt0584189
+17/01/2020,tt0584138
+16/01/2020,tt0584240
+16/01/2020,tt0584161
+16/01/2020,tt0774811
+15/01/2020,tt0584239
+14/01/2020,tt0584179
+14/01/2020,tt0584091
+14/01/2020,tt0584113
+13/01/2020,tt0584170
+12/01/2020,tt0584178
+10/01/2020,tt0584182
+10/01/2020,tt0584156
+09/01/2020,tt10470832
+09/01/2020,tt10470830
+09/01/2020,tt10470826
+09/01/2020,tt0584097
+08/01/2020,tt10470822
+08/01/2020,tt10470820
+08/01/2020,tt0584220
+08/01/2020,tt10470814
+08/01/2020,tt10470812
+08/01/2020,tt0584131
+07/01/2020,tt10470808
+07/01/2020,tt0584129
+06/01/2020,tt10470806
+06/01/2020,tt0584100
+05/01/2020,tt10470802
+05/01/2020,tt0584202
+05/01/2020,tt0584145
+05/01/2020,tt10470798
+04/01/2020,tt0584180
+03/01/2020,tt0584111
+03/01/2020,tt0584105
+02/01/2020,tt0760692
+02/01/2020,tt0584169
+02/01/2020,tt0584168
+01/01/2020,tt0776066
+01/01/2020,tt0584109
+30/12/2019,tt0584142
+30/12/2019,tt0584134
+30/12/2019,tt0584103
+29/12/2019,tt0584190
+28/12/2019,tt0584165
+28/12/2019,tt0584251
+28/12/2019,tt0584137
+27/12/2019,tt0584095
+27/12/2019,tt0584177
+27/12/2019,tt0584185
+27/12/2019,tt0584244
+26/12/2019,tt0776068
+26/12/2019,tt0584108
+24/12/2019,tt0831511
+24/12/2019,tt0584124
+24/12/2019,tt0584154
+23/12/2019,tt0584211
+23/12/2019,tt0584121
+23/12/2019,tt0584122
+23/12/2019,tt0584171
+22/12/2019,tt0584234
+22/12/2019,tt0584233
+22/12/2019,tt0584160
+22/12/2019,tt0584126
+21/12/2019,tt0584112
+21/12/2019,tt0827308
+20/12/2019,tt0584147
+20/12/2019,tt0584200
+19/12/2019,tt0584187
+19/12/2019,tt0584214
+19/12/2019,tt0584159
+18/12/2019,tt0584227
+18/12/2019,tt0584155
+18/12/2019,tt0584163
+17/12/2019,tt0584125
+17/12/2019,tt0584196
+17/12/2019,tt0584232
+16/12/2019,tt0584218
+16/12/2019,tt0584186
+16/12/2019,tt1272824
+16/12/2019,tt10470796
+15/12/2019,tt0332379
+14/12/2019,tt3845892
+14/12/2019,tt3845888
+09/12/2019,tt3538760
+08/12/2019,tt3381878
+08/12/2019,tt2781046
+07/12/2019,tt2781042
+06/12/2019,tt2189771
+06/12/2019,tt1942614
+04/12/2019,tt1942613
+02/12/2019,tt1942612
+01/12/2019,tt1664530
+30/11/2019,tt1664529
+29/11/2019,tt1665071
+19/11/2019,tt0230011
+18/11/2019,tt0582990
+17/11/2019,tt0582989
+17/11/2019,tt0582964
+16/11/2019,tt0582992
+16/11/2019,tt0582993
+16/11/2019,tt0582994
+16/11/2019,tt0582977
+15/11/2019,tt0583043
+15/11/2019,tt0582987
+15/11/2019,tt0582950
+14/11/2019,tt0582949
+14/11/2019,tt0582988
+13/11/2019,tt0582947
+13/11/2019,tt0582991
+13/11/2019,tt0583057
+12/11/2019,tt0583056
+12/11/2019,tt0583061
+12/11/2019,tt0582969
+12/11/2019,tt0583005
+11/11/2019,tt0582957
+11/11/2019,tt0583060
+11/11/2019,tt0583022
+10/11/2019,tt0582940
+10/11/2019,tt0583026
+10/11/2019,tt0583055
+09/11/2019,tt0583070
+09/11/2019,tt0582935
+09/11/2019,tt0582951
+09/11/2019,tt0582998
+09/11/2019,tt0583059
+08/11/2019,tt0583021
+07/11/2019,tt0583071
+07/11/2019,tt0583018
+05/11/2019,tt0583010
+05/11/2019,tt0583006
+05/11/2019,tt0583048
+04/11/2019,tt0583051
+04/11/2019,tt0583077
+04/11/2019,tt0583031
+02/11/2019,tt0583064
+02/11/2019,tt0582986
+31/10/2019,tt0583066
+31/10/2019,tt0583025
+30/10/2019,tt0582933
+30/10/2019,tt0583078
+29/10/2019,tt0583034
+29/10/2019,tt0582983
+28/10/2019,tt0582970
+28/10/2019,tt0582945
+28/10/2019,tt0582979
+28/10/2019,tt0583069
+28/10/2019,tt0582997
+27/10/2019,tt0582967
+26/10/2019,tt0582939
+26/10/2019,tt0834696
+26/10/2019,tt0583065
+26/10/2019,tt0583024
+26/10/2019,tt0583054
+26/10/2019,tt0583039
+26/10/2019,tt0582952
+26/10/2019,tt0583009
+26/10/2019,tt0583045
+26/10/2019,tt0582936
+25/10/2019,tt0582937
+25/10/2019,tt0582978
+22/10/2019,tt0583016
+22/10/2019,tt0583007
+22/10/2019,tt0582981
+21/10/2019,tt0583067
+21/10/2019,tt0582985
+21/10/2019,tt0583033
+21/10/2019,tt0582944
+21/10/2019,tt0583038
+21/10/2019,tt0583062
+18/10/2019,tt0583058
+18/10/2019,tt0582965
+18/10/2019,tt0582995
+18/10/2019,tt0582958
+18/10/2019,tt0582972
+18/10/2019,tt0583011
+13/10/2019,tt0582982
+13/10/2019,tt0582955
+13/10/2019,tt0583029
+13/10/2019,tt0583042
+13/10/2019,tt0582980
+13/10/2019,tt0582954
+13/10/2019,tt0583023
+13/10/2019,tt0583041
+13/10/2019,tt0582996
+13/10/2019,tt0583079
+12/10/2019,tt0583046
+12/10/2019,tt0583049
+12/10/2019,tt0582961
+12/10/2019,tt0582960
+11/10/2019,tt0583002
+11/10/2019,tt0583035
+11/10/2019,tt0582959
+11/10/2019,tt0583001
+11/10/2019,tt0583028
+10/10/2019,tt0583027
+10/10/2019,tt0582962
+09/10/2019,tt0583008
+08/10/2019,tt0582984
+08/10/2019,tt0583014
+08/10/2019,tt0582956
+08/10/2019,tt0582942
+08/10/2019,tt0583047
+02/10/2019,tt4831682
+01/10/2019,tt6730576
+01/10/2019,tt6700366
+01/10/2019,tt6668832
+01/10/2019,tt6644158
+01/10/2019,tt6617636
+01/10/2019,tt6582350
+30/09/2019,tt6556966
+30/09/2019,tt6536080
+30/09/2019,tt6516610
+29/09/2019,tt6483160
+29/09/2019,tt6463366
+29/09/2019,tt6443478
+29/09/2019,tt6425294
+22/09/2019,tt6317962
+21/09/2019,tt2011435
+21/09/2019,tt2011437
+21/09/2019,tt2012701
+21/09/2019,tt2011438
+20/09/2019,tt2011439
+20/09/2019,tt2011436
+20/09/2019,tt1958145
+20/09/2019,tt1949635
+20/09/2019,tt1949634
+19/09/2019,tt1949636
+18/09/2019,tt1949633
+16/09/2019,tt1104001
+15/09/2019,tt1839494
+15/09/2019,tt0808506
+14/09/2019,tt2140203
+13/09/2019,tt5323662
+13/09/2019,tt5271822
+13/09/2019,tt5257562
+13/09/2019,tt5252356
+13/09/2019,tt0073174
+11/09/2019,tt5236798
+11/09/2019,tt5220908
+11/09/2019,tt5203540
+11/09/2019,tt5173426
+10/09/2019,tt5169658
+10/09/2019,tt5152430
+10/09/2019,tt5109278
+09/09/2019,tt5109276
+09/09/2019,tt4569062
+17/07/2019,tt0327597
+04/07/2019,tt4302938
+03/07/2019,tt1623288
+29/06/2019,tt2279373
+15/06/2019,tt2709768
+07/04/2019,tt1589921
+07/04/2019,tt8753660
