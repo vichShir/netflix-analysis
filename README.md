@@ -11,7 +11,7 @@ Este repositório mantém o meu histórico de streaming do **Netflix** com o obj
 O projeto quer responder as principais perguntas:
 
 * Em que ano comecei a utilizar os serviços do Netflix? Houve um aumento em seu uso ao longo dos anos?
-* Quais dias da semana eu assisti mais títulos? Isso difere a cada ano?
+* Quais meses do ano eu assisti mais títulos? Isso difere a cada ano?
 * Quais são os títulos assistidos?
 * Quais são os 3 títulos mais assistidos em cada ano e de todo o período?
 * Quais são os 3 gêneros mais assistidos em cada ano e de todo o período?
