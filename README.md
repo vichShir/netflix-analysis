@@ -4,7 +4,7 @@
 
 ### 📃 Descrição
 
-Este repositório mantém o meu histórico de streaming do **Netflix** com o objetivo de **analisar o meu consumo** no aplicativo.
+Este repositório mantém o meu histórico de streaming do **Netflix** com o objetivo de **analisar o meu consumo** no aplicativo. Para mais detalhes do projeto, acesse em meu [blog](https://vichshir.blogspot.com/2022/04/analise-de-consumo-do-netflix.html).
 
 ### 😵 Problema
 
